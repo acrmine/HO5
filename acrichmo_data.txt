@@ -1,0 +1,959 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12	col_13
+2	1537 N	0.7578	Michael	FOOTBALL, GOLF	716	-0.0151	1446	0.8405	1444	COMPUTER SCIENCE	25	677	0.9256	885
+2	518 N	1.2003	Lise	boxing, football	780	0.3967	880	1.369	-139	Data Science	570	913	1.489	307
+0	724 N	1.0619	Chris	football	267	0.7153	561	0.6426	1046	Statistics	54	-39	0.1818	207
+0	1291 N	1.4643	Chris	ice hockey, volleyball	518	0.323	242	0.9245	1609	Electrical Engineering	959	309	0.1943	-46
+2	790 N	0.9887	Michael	tennis	829	0.5133	1554	1.278	229	Technology and Information Management	-44	652	0.7874	618
+3	929 N	0.6718	Chris	motor sports	-282	0.4869	1313	0.3668	-67	Bioinformatics	84	697	0.5073	721
+1	1035 N	0.4499	Lise	boxing, golf	730	0.0458	877	1.2766	655	Bioengineering	1410	587	0.7468	206
+3	1572 N	1.2817	Andrew	soccer	869	1.3961	236	-0.3347	-38	Computer Game Design	663	1027	1.1621	1417
+0	1317 N	1.5681	Vani	ice hockey, track & field, badminton, running	-603	0.1448	-40	1.1443	1598	Natural Language Processing	1110	179	0.6677	1464
+0	1270 N	1.2014	Chris	track & field	-87	0.5172	554	1.2519	1133	Statistics	695	389	0.6965	662
+2	-337 N	0.5737	Inan	football, golf	468	-0.4903	154	1.3433	964	Data Science	-37	354	0.529	288
+3	347 N	0.4818	Fabrice	tennis	647	1.3171	916	0.2909	-236	Bioinformatics	195	612	1.0746	893
+0	1184 N	1.0355	Sam	running, track & field, ice hockey	-695	0.615	667	0.7204	1301	Biotechnology	722	112	0.328	1245
+0	1069 N	0.7463	Vani	ice hockey, badminton, running, track & field	354	0.4818	1186	0.9869	649	Natural Language Processing	1274	500	0.5393	665
+0	879 N	1.2296	Sam	ice hockey	415	0.2337	892	1.477	771	Computer Engineering	1089	-36	0.4254	14
+0	981 N	0.5545	Chris	track & field, volleyball, ice hockey	403	0.0379	859	1.1986	724	Natural Language Processing	1293	58	0.7895	483
+3	1163 N	0.4659	Andrew	tennis	435	1.779	407	1.6785	1045	Bioinformatics	-567	1020	0.8886	928
+2	511 N	0.4854	Inan	golf, boxing	1622	0.5856	1007	0.3254	971	Computational Media	707	395	0.4675	1349
+2	369 N	0.435	Inan	golf, football	1237	0.5328	671	0.0465	750	Games And Playable Media	118	-86	0.5693	1091
+2	727 N	None	Michael	boxing	1317	0.332	583	0.7512	944	Computational Media	172	485	0.6007	1404
+2	-31 N	0.8581	Michael	football	1200	0.9211	950	1.7667	922	Games and Playable Media	657	681	0.8977	342
+2	-93 N	1.1927	mICHAEL	golf, boxing	626	0.2019	385	1.7765	953	Data Science	-47	178	0.3228	-502
+0	579 N	1.4257	Vani	badminton, running, ice hockey, volleyball	172	0.5584	273	1.0029	727	Electrical Engineering	813	-56	0.3999	530
+1	1348 N	0.2657	Reilly	soccer	1484	0.4982	71	0.8549	400	Bioengineering	1056	831	0.9494	308
+3	n/a	0.4516	Andrew	football	519	0.1636	427	0.0848	593	Bioinformatics	981	-53	0.9025	1548
+1	878 N	0.7173	Lise	basketball	1288	0.7246	245	0.9245	994	Bioengineering	842	949	1.5222	-53
+1	598 N	-0.6775	Tony	motor sports, baseball	379	0.5637	-115	0.836	565	Human Computer Interaction	911	823	0.2375	541
+3	1181 N	0.1049	Andrew	soccer	400	0.4227	n/a	0.0729	-298	Bioinformatics	615	959	1.3653	951
+0	683 N	0.4336	Vani	VOLLEYBALL, TRACK & FIELD, RUNNING	26	-0.2543	1358	0.4226	1488	Electrical Engineering	545	419	0.0876	474
+0	385 N	1.568	Vani	ice hockey, track & field	795	0.2826	1408	0.3086	1010	Computer Engineering	None	265	-0.1829	978
+3	780 N	0.6986	Fabrice	motor sports, baseball	361	0.7947	1300	0.7462	431	Computer Game Design	444	377	0.633	906
+2	1320 N	0.9435	Inan	boxing, golf	1033	0.2377	949	0.9687	800	Games and Playable Media	-144	200	0.6077	634
+1	1115 N	0.5129	Reilly	football, golf	473	1.0411	296	1.0471	184	Bioengineering	297	334	0.7834	-258
+2	274 N	1.4037	Inan	boxing, football	893	0.6002	913	1.4163	506	Computational Media	-241	846	0.1564	-62
+2	861 N	0.7221	Inan	?	866	0.6087	495	1.1398	1235	Computational Media	-651	1011	0.7183	1008
+2	16 N	1.1241	Michael	boxing	1101	0.4618	279	0.5664	1165	Computational Media	-216	881	1.0645	545
+3	806 N	0.9463	Fabrice	tennis	432	?	201	0.3995		n/a	430	457	0.7692	1862
+2	809 N	0.7853	Michael	golf, boxing	931	0.2749	1668	1.1642	440	Data Science	150	1017	1.836	659
+2	867 N	1.5672	Michael	soccer	1107	1.0768	-181	1.2786	757	Data Science	-115	363	0.3056	30
+0	950 N	1.1956	Sam	volleyball, badminton, ice hockey, running	-171	0.8693	667	0.4298	655	Biotechnology	918	583	0.4074	-367
+3	688 N	0.1376	Fabrice	tennis	482	1.3163	928	0.1621	-21	Computer Game Design	26	978	0.8941	524
+1	931 N	0.0631	Lise	basketball, baseball	659	0.4628	317	0.4687	220	Applied Mathematics	783	944	1.1139	497
+3	1241 N	0.7428	Andrew	Tennis	586	0.7739	1211	-0.1628	-542	Computer Game Design	260	1199	1.235	42
+3	183 N	0.5502	Andrew	?	350	0.921	1727	1.1944	-68	n/a	1258	358	1.2549	1139
+3	954 N	0.4442	Fabrice	soccer	-394	0.7518	954	0.4784	23	Computer Game Design	697	833	0.498	982
+2	458 N	1.4833	Michael	football	969	0.4639	1099	1.143	801	Computer Science	581	627	1.0356	799
+3	533 N	0.8166	Chris	Tennis	431	1.0322	358	0.2181	110	Bioinformatics	754	587	0.2636	1137
+1	329 N	-0.1321	Lise	basketball, motor sports	901	0.5867	546	0.6383	-272	Bioengineering	1628	1006	1.4114	430
+0	850 N	0.2476	Vani	badminton, track & field	908	0.3965	279	1.2124	1417	Technology and Information Management	588	488	0.9464	542
+1	1044 N	None	Reilly	tennis	1146	0.6027	-4	1.307	934	Applied Mathematics	820	944	1.5062	-372
+1	1477 N	-0.2996	Reilly	baseball	886	0.5987	-260	0.5696	276	Bioengineering	408	486	1.1304	-166
+1	1535 N	0.3887	Eriq	motor sports	843	0.5247	-15	1.1108	202	Human Computer Interaction	565	220	1.0995	880
+0	1894 N	0.9272	Sam	running, badminton	-179	0.121	141	0.4589	1003	Natural Language Processing	1780	-293	-0.0073	740
+0	661 N	0.4753	Vani	soccer	-124	1.028	-168	-0.2762	797	Electrical Engineering	677	-161	0.0515	717
+2	670 N	1.2419	Inan	soccer	774	0.4622	310	0.2565	1126	Games and Playable Media	95	833	0.9315	N/A
+0	1197 N	0.4306	Vani	badminton, ice hockey	614	-0.0366	290	1.5506	22	Natural Language Processing	97	-189	1.1407	958
+3	810 N	0.716	Fabrice	soccer	-176	1.1516	688	0.1849	57	Bioinformatics	1197	832	0.4325	543
+3	1282 N	0.4647	Andrew	tennis	-100	0.2712	684	0.7494	233	Computer Game Design	-355	765	0.0593	1917
+3	548 N	0.1306	Andrew	boxing	-209	0.6078	1631	0.1983	-67	Computer Game Design	236	430	0.5913	595
+2	246 N	0.0456	Inan	ice hockey, badminton, running, volleyball	953	0.364	1431	0.1627	559	Games and Playable Media	37	n/a	0.5139	908
+1	256 N	-0.4613	Inan	basketball	-263	0.4974	26	0.952	-29	Human Computer Interaction	815	968	1.0372	-730
+0	800 N	0.476	Sam	BADMINTON, RUNNING, TRACK & FIELD	241	-0.3736	1263	0.4555	856	Robotics Engineering	-172	323	0.1537	1454
+3	390 N	0.1424	Michael	soccer	-664	0.8829	653	1.0811	622	Bioinformatics	299	1605	0.9835	106
+0	1546 N	1.4235	Sam	badminton, volleyball, track & field, running	-47	0.473	1017	1.5192	1097	Robotics Engineering	386	416	0.2341	1641
+3	629 N	1.4961	Andrew	tennis	127	1.4097	682	0.4152	217	Bioinformatics	460	327	0.7951	715
+2	510 N	1.1917	Inan	football	1353	0.3022	837	1.1311	1112	Technology and Information Management	-19	-101	0.8966	252
+3	1053 N	0.2858	Fabrice	soccer	324	1.1419	1214	0.3997	-448	Computer Game Design	668	307	1.3949	873
+2	586 N	1.1338	Michael	tennis	990	1.1906	1363	0.6443	1521	Technology and Information Management	472	1012	1.5083	411
+3	1335 N	1.2733	Fabrice	golf, football	486	0.4809	1338	0.4284	-882	Bioinformatics	-305	1042	0.2874	1244
+1	1672 N	-0.1763	Tony	basketball	932	0.3214	508	1.1019	-506	Applied Mathematics	700	801	-0.1059	172
+0	844 N	0.8712	Sam	ice hockey, badminton	-177	-0.2448	155	1.0221	589	Biotechnology	786	368	-0.1805	873
+0	452 N	1.0944	Vani	soccer	-132		934	1.7591	598	Robotics Engineering	556	487	0.4439	654
+2	-636 N	0.2376	Michael	golf, football	1247	0.4395	999	1.739	665	Technology and Information Management	278	11	0.864	1077
+1	1424 N	1.6248	Vani	baseball, motor sports	261	0.8833	-3	1.1068	248	Applied Mathematics	1117	1032	0.8643	874
+1	1171 N	-0.2202	Tony	motor sports, baseball	559	-0.0249	593	0.4884	830	Applied Mathematics	789	889	-0.0238	477
+1	1122 N	0.6288	Tony	soccer	424	-0.0602	861	0.5735	20	Bioengineering	-141	1142	1.0097	-308
+0	591 N	0.8557	Sam	badminton	-153	0.3122	3	1.1974	478	Computational Media	1057	-373	0.5326	641
+0	611 N	-0.112	Chris	running, track & field, badminton	654	0.5411	927	0.9249	524	Natural Language Processing	1247	413	-0.3214	726
+2	235 N	1.3435	Michael	boxing, golf	-326	-0.241	n/a	1.2656	421	Computer Science	12	1158	1.968	-155
+0	175 N	0.5747	Vani	track & field	-188	0.8079	770	1.4997	771	Electrical Engineering	1157	93	1.4668	None
+3	1552 N	0.6443	Fabrice	soccer	330	1.1256	1440	0.5589	106	Computer Game Design	265	852	0.8702	544
+0	1567 N	1.3505	Vani	running, volleyball, ice hockey	259	0.759	904	0.8545	1322	Natural Language Processing	380	61	0.0033	1379
+0	1245 N	1.2505	Vani	track & field, ice hockey	-677	-0.4925	1329	1.308	660	Computer Engineering	809	263	1.193	539
+3	-380 N	0.4461	Fabrice	golf, football	-315	0.8379	715	1.2452	360	Bioinformatics	414	690	1.6052	479
+2	738 N	1.1126	Fabrice	football	733	0.6968	253	0.5627	823	Data Science	570	212	0.4853	784
+2	249 N	1.7672	Inan	GOLF	1041	0.0581	731	-0.2732	619	Technology and Information Management	206	974	1.2843	739
+2	68 N	0.5729	Michael	football, golf	1239	1.1355	1338	1.3155	622	Games and Playable Media	256	478	0.6426	478
+0	1003 N	0.2077	Sam	running, badminton	147	0.7134	671	?	1069	Statistics	985	117	-0.0628	883
+0	365 N	1.2086	Fabrice	ice hockey, badminton, running	935	1.1297	1332	0.9259	1509	Statistics	1344	272	0.4924	204
+2	-471 N	0.264	Inan	boxing	629	0.5121	1348	1.3164	745	Games and Playable Media	-44	1044	0.4042	126
+1	1347 N	0.7339	Lise	baseball	615	-0.1287	510	0.8225	459	Bioengineering	1404	414	0.7056	-456
+1	1133 N	0.5463	Lise	basketball	601	0.3143	276	0.7477	439	Human Computer Interaction	1285	892	1.8216	693
+0	-589 N	0.4417	Sam	running, ice hockey, badminton, track & field	-738	-0.2991	931	0.5149	1351	Computer Engineering	728	-652	0.8342	798
+1	845 N	0.5459	Eriq	basketball	1255	-0.1389	308	1.0268	627	Applied Mathematics	1565	1138	1.0595	-178
+1	203 N	0.9903	Chris	baseball, basketball	1150	0.3339	-229	0.5782	913	Bioengineering	266	1002	1.0236	806
+1	395 N	0.5021	Eriq	GOLF	740	1.0409	8	0.7909	225	Bioengineering	N/A	364	0.8175	524
+0	1058 N	0.9167	Chris	running, ice hockey, volleyball, badminton	633	0.5096	1041	1.0831	837	Electrical Engineering	155	569	1.4524	1151
+3	1482 N	0.9625	Andrew	tennis	-218	0.9231	218	0.2403	-25	Bioinformatics	359	-39	-0.085	961
+2	790 N	1.0812	Michael	boxing	1404	0.4907	1325	1.0487	642	Technology and Information Management	70	782	0.4749	NULL
+3	321 N	1.0412	Fabrice	soccer	204	1.3626	1335	0.0406	637	Computer Game Design	520	389	1.1538	895
+0	1332 N	0.8581	Chris	motor sports, baseball	705	0.0698	367	1.117	642	Natural Language Processing	881	332	-0.2331	-140
+0	863 N	0.2774	Sam	badminton, track & field, ice hockey, volleyball	-4	0.3562	745	0.9438	1075	Computer Engineering	1540	830	0.1254	811
+3	1464 N	0.5924	Fabrice	SOCCER	728	0.7553	516	0.1884	521	cOMPUTER gAME dESIGN	-93	248	1.0462	816
+2	178 N	1.1109	Inan	football	782	0.9014	1822	0.7734	419	Games and Playable Media	307	850	0.6692	557
+0	930 N	0.3421	Vani	basketball	-274	0.6849	560	1.3586	1345	Statistics	1361	682	0.5252	-36
+1	1065 N	N/A	ERIQ	basketball	617	0.1804	211	0.6887	-37	Bioengineering	1594	860	1.1774	-104
+2	-253 N	1.0298	Inan	football	685	0.3515	592	1.8756	338	Computational Media	201	294	0.9338	999
+1	1000 N	-0.2231	Eriq	motor sports	1151	0.411	-333	0.3421	635	Bioengineering	1513	666	0.3025	-390
+0	778 N	0.8479	Chris	volleyball, badminton, track & field	978	0.4069	966	1.3003	916	Computer Engineering	1549	-142	0.6432	278
+1	1192 N	0.9454	Eriq	basketball	183	0.2279	158	0.6929	352	Human Computer Interaction	968	730	1.2531	123
+3	595 N	0.0944	Andrew	soccer	413	0.9241	795	0.5232	-18	Bioinformatics	-265	794	0.9254	1290
+0	929 N	1.2218	Sam	track & field, running	-164	0.4751	1431	1.6312	1725	Robotics Engineering	625	N/A	0.2037	1197
+1	1442 N	-0.1063	Lise	motor sports, basketball	608	0.4198	790	0.4659	762	Human Computer Interaction	1311	838	0.1137	79
+3	847 N	0.5831	Andrew	tennis	509	0.8274	182	1.3018	471	Computer Game Design	107	674	0.9745	1012
+2	-96 N	0.4837	Michael	boxing, golf	908	0.4256	1593	1.3376	409	Technology and Information Management	-154	329	1.4287	257
+0	520 N	1.0845	Vani	golf	-25	0.7929	490	0.9688	635	Biotechnology	754	450	1.0984	1198
+0	-515 N	1.3325	Sam	running, ice hockey, badminton, volleyball	369	0.7429	736	1.4215	701	Robotics Engineering	1325	403	0.7628	1367
+3	-111 N	0.3016	Andrew	tennis	24	0.5764	1249	0.4152	193	Bioinformatics	165	1060	0.6708	1928
+3	1114 N	0.2027	Fabrice	soccer	-302	1.0798	1142	0.2886	-170	Computer Game Design	454	1484	-0.1411	330
+2	336 N	0.2782	Michael	badminton	1551	0.4439	932	0.6216	1187	Data Science	57	60	0.1204	663
+1	765 N	-0.2852	eriq	baseball	580	-0.893	650	0.6344	479	Bioengineering	636	1207	1.2832	477
+3	1268 N	0.7869	Fabrice	tennis	291	1.2686	433	-0.4621	-163	Computer Game Design	70	476	0.7673	632
+0	851 N	0.2612	Vani	volleyball, track & field, ice hockey, running	-435	-0.1822	626	1.434	992	Biotechnology	762	-324	0.0071	1285
+3	849 N	0.2357	Fabrice	tennis	309	0.577	1050	0.2082	-120	Bioinformatics	159	787	1.3285	846
+1	179 N	0.176	Reilly	motor sports, baseball	975	0.6111	513	0.8817	1007	Applied Mathematics	1014	1379	1.3241	-53
+3	712 N	1.3466	Tony	soccer	None	0.6091	297	0.1596	47	Bioinformatics	None	1331	1.2502	1678
+1	971 N	0.0016	Reilly	motor sports	936	-0.1332	928	1.7303	0	Human Computer Interaction	624	445	0.0759	609
+0	906 N	0.4828	cHRIS	football, golf	-174	0.1363	308	0.6351	1202	Computer Engineering	279	-127	0.9281	868
+3	658 N	0.2632	Fabrice	tennis	1158	0.0897	1520	0.6227	783	Bioinformatics	41	1239	1.016	1791
+0	1035 N	0.7353	Sam	motor sports	212	1.1055	323	0.777	626	Electrical Engineering	407	0	0.4975	1256
+2	310 N	1.4378	Inan	boxing, football	1197	0.9531	366	1.0738	277	Computational Media	85	881	1.0791	742
+1	1239 N	0.99	Lise	baseball, basketball	1207	0.6347	719	0.7989	108	Bioengineering	525	1374	1.2104	64
+1	635 N	0.1006	Reilly	basketball	740	-0.0961	-202	1.1476	-62	Applied Mathematics	375	401	0.5831	-262
+1	66 N	0.376	Reilly	baseball	374	0.685	548	1.0874	-149	Applied Mathematics	1341	805	1.3163	853
+3	486 N	1.5107	N/A	tennis	534	0.9994	472	1.5557	-99	Bioinformatics	916	898	1.031	734
+0	763 N	0.4776	Vani	running	376	0.1109	426	1.488	1198	Biotechnology	546	-188	0.1036	1471
+1	701 N	0.2884	Eriq	basketball, baseball	540	0.0532	-32	0.1406	725	Applied Mathematics	1784	1207	0.5309	-370
+1	940 N	0.3469	Eriq	motor sports, baseball	702	0.5725	612	0.934	702	Human Computer Interaction	749	943	0.9076	-352
+2	-375 N	0.626	Reilly	golf	1163	0.6222	1049	0.7402	941	Games and Playable Media	-332	533	0.2403	1272
+1	1014 N	0.176	Reilly	baseball	421	0.0073	115	0.3533	295	Applied Mathematics	679	-9	1.2342	448
+2	135 N	1.3129	Inan	FOOTBALL	1094	1.0393	1761	0.5574	347	Games and Playable Media	395	692	0.5368	958
+3	1014 N	-0.0027	Fabrice	soccer	310	0.5472	652	1.0143	858	Bioinformatics	557	1114	1.0307	513
+2	-75 N	1.372	Inan	boxing	1304	0.3778	1415	0.479	92	Computer Science	395	1210	1.0261	959
+2	533 N	-0.1028	Michael	boxing, football	912	0.8996	349	1.0292	325	Games and Playable Media	119	1393	1.0328	-41
+3	1173 N	?	Andrew	SOCCER	-85	0.5706	487	0.4095	362	Computer Game Design	385	670	1.0095	120
+2	-311 N	0.301	Michael	BOXING, FOOTBALL	1551	-0.4958	862	0.9056	-124	Computational Media	113	680	0.5755	443
+3	207 N	-0.1582	Andrew	SOCCER	386	0.3271	224	None	488	Bioinformatics	-77	1041	1.324	821
+3	1460 N	0.7329	Fabrice	soccer	367	0.3587	2021	NULL	-552	Bioinformatics	797	354	-0.8109	1617
+1	394 N	0.2719	Lise	baseball, basketball	338	0.0711	234	0.6539	447	Bioengineering	500	800	1.83	244
+2	379 N	1.2944	Inan	golf	457	1.1788	1050	1.3619	372	Games and Playable Media	290	1072	0.5629	348
+3	1217 N	1.19	Andrew	tennis	1016	0.6752	580	0.3692	-3	Bioinformatics	667	949	1.3853	1248
+1	1007 N	0.3264	Tony	baseball	16	0.1978	298	1.0287		Bioengineering	428	443	0.2212	-453
+3	1990 N	1.2203	Tony	tennis	471	0.5929	501	-0.0649	22	COMPUTER GAME DESIGN	-168	706	1.487	1365
+3	852 N	0.817	fABRICE	tennis	29	0.9144	1068	0.3587	338	Bioinformatics	685	1294	-0.1855	1407
+3	1361 N	1.513	Fabrice	tennis	768	0.6302	366	0.546	897	Computer Game Design	-20	1168	2.0278	1491
+3	36 N	1.0656	Andrew	soccer	891	0.6973	1110	0.6368	443	Bioinformatics	281	829	1.2006	493
+0	568 N	0.7221	Chris	volleyball, running, ice hockey	355	1.1754	1446	0.4261	1182	Electrical Engineering	807	321	0.5205	731
+1	1758 N	0.2307	Eriq	basketball	502	0.4884	243	0.2969	102	Bioengineering	328	1112	0.7831	785
+0	1477 N	0.8784	Chris	volleyball	199	0.4073	637	1.6264	1168	rOBOTICS eNGINEERING	965	491	-0.082	974
+0	1715 N	1.0964	Vani	running, badminton, track & field, volleyball	-731	0.5422	752	0.4029	1189	Computer Engineering	531	1038	0.475	837
+0	401 N	0.8642	Chris	badminton, volleyball, track & field, running	-408	0.1931	1416	1.0987	268	Biotechnology	1588	-295	0.5589	1056
+0	499 N	1.8688	Vani	tennis	29	-0.2049	1290	0.8784	763	Natural Language Processing	240	119	0.1145	1002
+3	1018 N	1.0738	Andrew	soccer	643	0.9776	514	0.2036	186	Bioinformatics	567	991	1.026	1197
+1	962 N	0.3908	Reilly	track & field, ice hockey	203	-0.2676	350	1.2931	-56	Bioengineering	564	725	0.4553	593
+2	804 N	0.6827	Michael	football	454	0.4957	1301	1.145	855	Data Science	723	743	0.3946	952
+1	700 N	0.5607	Eriq	motor sports	423	0.0141	313	0.5129	841	Bioengineering	596	123	1.2395	1309
+0	1300 N	0.7993	Vani	volleyball, badminton	-66	0.0943	629	0.5449	1989	Robotics Engineering	732	277	0.2378	631
+0	1052 N	0.9735	Chris	golf	-277	1.1849	747	1.1093	1464	Biotechnology	656	500	0.8265	1433
+1	1035 N	-0.23	Tony	baseball	731	-0.5078	-565	0.8796	1237	Applied Mathematics	986	859	1.2153	537
+2	736 N	0.842	Michael	football	1064	0.346	1218	0.4691	1231	Computer Science	389	991	0.7974	636
+3	338 N	0.0787	Andrew	tennis	559	0.4322	?	0.6185	287	Bioinformatics	939	1168	1.0675	654
+2	429 N	1.2523	Michael	boxing	870	0.3509	788	2.1223	613	Computer Science	490	453	1.3814	830
+0	1512 N	0.8991	Sam	ice hockey, volleyball, badminton	442	0.0898	908	1.2204	?	Statistics	N/A	123	1.0704	576
+1	962 N	0.418	Eriq	track & field, running, badminton, volleyball	1010	0.5668	-581	0.7482	-203	Human Computer Interaction	1255	227	0.2874	691
+2	1067 N	0.7911	Inan	golf	936	0.7019	1366	0.9977	425	COMPUTER SCIENCE	-93	923	0.286	131
+3	645 N	1.2336	Fabrice	boxing	131	0.2701	744	0.0098	759	Bioinformatics	165	1148	1.3304	1177
+0	1858 N	0.7101	Vani	volleyball, track & field	-530	0.7852	347	0.8396	1055	Robotics Engineering	614	298	0.7534	863
+0	1314 N	1.0076	Chris	baseball, basketball	-223	0.4546	821	1.3482	1314	Statistics	1041	624	0.4796	1271
+1	829 N	0.3361	Fabrice	baseball	826	0.2869	502	0.5226	653	Bioengineering	956	1082	0.5237	1129
+1	1875 N	0.2473	Eriq	motor sports, basketball	-588	0.1888	1342	0.3362	50	Applied Mathematics	1014	697	1.6821	176
+2	492 N	1.9783	Chris	football	748	0.4393	727	1.124	-35	Human Computer Interaction	502	239	0.8832	1099
+3	1140 N	0.1043	Fabrice	soccer	419	0.26	1515	1.1588	363	Computer Game Design	842	199	0.8107	128
+0	1650 N	0.8861	Sam	badminton, running, track & field, volleyball	583	0.6604	112	1.1025	1108	Statistics	241	548	0.0311	1453
+1	425 N	0.4356	Andrew	basketball	597	0.4131	94	0.3027	1097	Applied Mathematics	1061	746	0.8462	-111
+2	371 N	1.0236	Michael	football	1285	0.6171	1192	0.7993	864	Computational Media	-354	418	0.4356	440
+3	356 N	0.3478	Andrew	football	317	0.1489	390	0.3793	24	Bioinformatics	272	676	1.3893	1563
+3	1158 N	0.123	Fabrice	boxing, football	-36	-0.0271	724	0.0237	-264	Bioinformatics	1272	312	1.2964	1324
+1	561 N	0.4298	Reilly	motor sports	416	0.5712	216	0.086	732	Bioengineering	508	570	0.7344	147
+1	942 N	0.5214	Eriq	motor sports	-384	0.9406	-162	1.0562	-447	Applied Mathematics	83	690	1.8314	368
+0	814 N	0.774	Vani	volleyball	-40	0.3273	1652	0.5304	621	Electrical Engineering	516	0	0.3935	2045
+3	779 N	0.3566	Fabrice	soccer	460	0.8454	1364	0.621	356	Computer Game Design	898	1169	0.918	259
+3	922 N	0.9865	Andrew	soccer	945	2.1481	562	0.737	67	Bioinformatics	22	804	0.7234	1452
+2	747 N	1.1241	Michael	football	1118	0.9054	1501	1.2121	952	Data Science	-66	879	0.9647	1451
+0	-392 N	0.9561	Vani	volleyball	-622	-0.0372	622	n/a	1062	Robotics Engineering	716	-18	0.2124	618
+2	747 N	1.0606	Inan	golf, boxing	721	0.4228	1034	0.5726	599	Data Science	-58	1083	0.8109	683
+1	1026 N	-0.1634	Reilly	basketball, baseball	719	-0.3434	157	0.5356	-291	Applied Mathematics	874	1424	2.0399	201
+2	204 N	1.5956	Michael	boxing, golf	1019	0.3583	1533	0.7203	?	Computer Science	-780	528	0.6909	709
+3	758 N	0.9439	aNDREW	Soccer	778	0.6431	572	0.7005	627	Bioinformatics	400	1164	0.726	1252
+2	296 N	1.1872	Chris	golf	1321	0.3924	259	2.1804	747	Computational Media	47	786	0.2348	1407
+2	898 N	0.2992	Inan	football, boxing	1248	0.4195	1100	0.9974	719	Data Science	593	714	1.2169	785
+1	1358 N		Reilly	baseball	1007	0.128	-112	0.7464	1298	Applied Mathematics	951	588	2.0093	23
+0	528 N	1.4144	Reilly	ice hockey	119	-0.3385	665	1.2353	1628	Biotechnology	813	683	0.0597	1272
+2	-520 N	1.1636	Michael	football, boxing	725	0.4367	1055	0.8695	376	Computational Media	209	437	0.8811	831
+1	283 N	0.0424	Eriq	basketball	1269	-0.0267	42	1.1446	743	Applied Mathematics	1266	1121	1.103	674
+1	1156 N	0.5171	Lise	boxing, golf	638	0.542	870	0.8795	509	Applied Mathematics	797	1001	0.152	821
+3	338 N	0.3789	Andrew	tennis	600	1.0618	1159	-0.2489	-136	Human Computer Interaction	n/a	410	1.4101	1000
+3	306 N	-0.2125	Andrew	tennis	51	0.7814	855	0.2845	847	Computer Game Design	597	825	0.8204	810
+3	1419 N	0.8385	Andrew	tennis	733	0.0192	903	0.7829	310	Computer Game Design	116	755	0.9822	820
+3	1015 N	1.3687	Andrew	tennis	-238	0.6512	1235	-0.32	-671	Computer Game Design	422	1027	1.1492	-136
+0	981 N	0.6363	Inan	running, volleyball	52	0.0178	919	1.5925	1505	?	259	304	0.2266	427
+1	949 N	0.2376	Reilly	motor sports, basketball	309	0.3102	-386	-0.2902	199	Applied Mathematics	850	898	1.1476	-63
+3	836 N	-0.0168	Andrew	tennis	-251	0.2118	364	?	-350	Computer Game Design	869	1038	1.0744	1373
+2	731 N	1.5843	Inan	boxing	530	0.6415	987	1.0982	1048	Games and Playable Media	785	878	0.6693	1029
+1	1408 N	0.2005	Tony	basketball	1091	0.788	458	0.8383	424	Human Computer Interaction	709	433	0.7247	504
+3	792 N	0.8122	Fabrice	soccer	121	1.2999	495	0.3883	694	Computer Game Design	370	529	0.9779	771
+0	1323 N	0.5542	Chris	track & field, volleyball, running, badminton	268	-0.0433	1198	1.5628	1594	statistics	1227	667	-0.1177	793
+1	515 N	-0.4283	Eriq	baseball, motor sports	1067	0.4616	667	0.945	166	Human Computer Interaction	367	1259	1.1563	236
+3	1356 N	-0.2565	Fabrice	soccer	347	0.7687	829	0.9699	269	Computer Game Design	66	853	1.1283	998
+2	-258 N	1.4497	Inan	golf	1446	0.6588	1068	1.1232	1075	Computer Science	-369	415	0.7251	750
+2	1323 N	0.7925	Michael	basketball, motor sports	1433	0.6911	865	1.3284	1193	Computational Media	-47	409	0.4857	1329
+3	1990 N	0.5616	Andrew	tennis	383	1.3762	1892	0.4019	539	Computer Game Design	717	794	0.7339	-15
+2	292 N	1.0832	Michael	None	1490	0.2364	899	1.0824	800	Data Science	16	530	0.5441	-151
+1	1050 N	0.5009	Eriq	basketball, motor sports	755	-0.0838	-70	0.4548	333	Applied Mathematics	1395	1478	0.8398	806
+1	1151 N	-0.0255	Reilly	motor sports	326	0.1549	-544	0.1241	N/A	Bioengineering	1333	1375	0.636	237
+2	612 N	1.7365	Michael	golf, boxing	1332	-0.1935	723	0.8941	1120	Games and Playable Media	-762	671	0.0307	1748
+3	542 N	1.056	Fabrice	soccer	827	0.8495	976	-0.1213	3	Computer Game Design	805	787	1.337	1321
+2	252 N	-0.1762	Inan	football, boxing	1095	0.42	335	-0.451	267	Computer Science	405	513	0.7416	1077
+0	898 N	1.2614	Vani	badminton, volleyball, running	-148	0.8737	1009	0.5282	1050	Robotics Engineering	527	1280	0.7366	605
+1	855 N	0.2336	Lise	motor sports, baseball	786	-0.2885	888	1.4078	83	Bioengineering	846	674	1.0255	141
+0	1689 N	1.4764	Sam	badminton, ice hockey	-2	0.3972	575	NULL	762	Biotechnology	1148	534	0.5051	748
+2	-144 N	0.9136	Michael	boxing	1303	0.7362	399	0.5116	842	Games and Playable Media	117	914	0.8067	20
+2	-29 N	0.1926	Inan	football	779	0.6176	748	0.521	970	Technology and Information Management	893	967	-0.459	1138
+1	346 N	1.042	Reilly	basketball	538	-0.0579	0	0.5974	n/a	Bioengineering	764	294	0.8948	700
+3	159 N	-0.0407	Andrew	soccer	-140	0.8841	929	1.0368	524	Computer Game Design	590	728	0.9118	1198
+2	506 N	1.1477	Michael	golf, football	1081	0.7226	1135	0.8363	927	Technology and Information Management	-294	835	0.8447	375
+2	-116 N	0.9803	Vani	badminton	572	-0.3402	753	1.4158	-200	Computer Science	27	785	0.2551	1087
+2	733 N	1.5873	Andrew	golf, football	759	0.5525	750	1.3518	934	Data Science	304	384	0.9062	1028
+1	1654 N	0.0631	Eriq	motor sports, basketball	732	0.661	695	0.9844	185	Applied Mathematics	503	549	0.8109	-107
+0	726 N	1.0692	Chris	ice hockey, badminton, running	479	0.5516	1144	0.3988	885	Biotechnology	846	574	0.061	882
+3	120 N	0.735	Andrew	soccer	-144	1.4136	621	0.7041	441	Bioinformatics	-130	822	1.1325	1214
+0	-16 N	0.8176	Vani	volleyball, badminton, running	495	0.6203	566	1.3568	759	Natural Language Processing	351	870	0.1897	815
+2	1043 N	1.4381	Andrew	football, golf	690	0.2721	1244	1.7708	1125	computational media	159	577	0.5853	773
+1	922 N	0.2759	Fabrice	track & field	792	-0.0052	-245	1.5741	203	Applied Mathematics	1053	893	0.9346	718
+1	923 N	1.3401	Lise	basketball	700	0.6252	329	1.205	419	Human Computer Interaction	155	916	1.0413	591
+0	1289 N	1.0577	Sam	track & field, volleyball	607	0.3487	n/a	0.808	1265	Electrical Engineering	1253	-266	0.1231	1101
+2	-35 N	1.1337	Michael	golf	1280	0.6702	1278	1.1068	685	Technology and Information Management	?	689	1.0064	256
+2	748 N	1.6622	Inan	golf, football	998	0.665	1588	0.6751	748	Computational Media	-589	863	1.2604	994
+2	312 N	1.0485	Michael	football	605	0.9512	1676	0.22	893	Technology and Information Management	-178	668	1.468	153
+0	1207 N	0.3612	Michael	golf, football	255	-0.0915	925	0.924	1098	Computer Engineering	76	331	0.2573	1203
+2	458 N	1.8976	Inan	golf, football	607	0.474	1074	0.4428	1048	Games and Playable Media	881	504	0.9604	-119
+1	665 N	0.8409	Lise	baseball, motor sports	638	0.1705	-273	0.674	-149	Bioengineering	974	557	0.5448	-187
+0	853 N	0.23	Chris	baseball	432	0.1428	441	0.9117	1378	Electrical Engineering	827	146	1.1542	1195
+1	1519 N	0.2347	Tony	basketball, baseball	228	0.5651	416	0.7132	-1	Human Computer Interaction	912	684	0.9802	653
+3	512 N	0.2267	Andrew	tennis	327	0.4382	460	0.01	713	Bioinformatics	401	475	1.9101	852
+1		0.3505	Lise	basketball	741	0.266	214	0.5216	222	Human Computer Interaction	802	315	1.341	131
+0	922 N	0.6551	Vani	volleyball, track & field	317	0.2697	925	1.4144	1015	Technology and Information Management	1809	-197	1.1575	751
+3	1174 N	0.572	Fabrice	boxing	-117	0.5972	1188	0.7239	-235	Computer Game Design	201	516	1.0712	1481
+3	171 N	NULL	Andrew	soccer	454	1.7697	1097	0.6143	-775	Computer Game Design	476	697	1.0471	1487
+3	1627 N	1.1754	Andrew	badminton	558	0.581	756	-0.6429	88	Bioinformatics	241	1139	1.3788	1837
+0	1381 N	0.775	Vani	track & field, ice hockey	617	0.4336	1550	1.38	784	Natural Language Processing	376	287	0.0051	1408
+2	412 N	0.9124	Lise	golf	755	0.687	1815	-0.6299	564	Computer Science	685	1043	1.0641	275
+2	205 N	0.796	Vani	boxing, golf	772	0.6881	1306	0.1036	419	Computational Media	-57	393	0.9197	574
+2	-221 N	1.1038	Michael	boxing, football	281	-0.2204	1065	0.282	1222	Computer Science	119	684	1.3291	92
+0	1316 N	0.597	Vani	soccer	105	1.0079	719	1.5392	688	Robotics Engineering	230	457	0.635	666
+3	1214 N	1.0698	Fabrice	running	-359	0.4427	739	0.5564	-156	Computer Game Design	-125	627	0.4731	835
+3	1376 N	1.5248	Fabrice	soccer	-323	1.0613	921	0.4668	605	Bioinformatics	578	899	1.8533	422
+0	1177 N	1.1621	Vani	running	42	-0.2054	1546	1.1254	1953	Statistics	1391	545	0.0542	997
+2	1222 N	1.2844	Michael	boxing, golf	1022	0.7524	491	1.5686	-124	Data Science	-319	359	1.1581	551
+3	744 N	0.1775	Fabrice	soccer	303	1.1358	1588	0.4627	?	Bioinformatics	-88	929	0.4066	681
+1	187 N	0.2974	Eriq	basketball, motor sports	-94	0.2148	-70	0.7759	353	Applied Mathematics	903	-74	0.162	-336
+2	20 N	1.3623	Inan	football, boxing	?	1.2539	1432	1.2056	1306	Technology and Information Management	276	197	0.2689	704
+3	721 N	0.3683	Fabrice	football, golf	-75	0.6598	544	0.2105	433	Computer Game Design	355	790	1.7601	1528
+0	907 N	1.275	CHRIS	track & field, ice hockey, running, volleyball	541	-0.0133	1084	1.0443	671	Electrical Engineering	317	244	0.2983	1358
+3	951 N	0.4507	Fabrice	golf, boxing	365	0.9181	576	0.4222	-29	Bioinformatics	85	529	1.0533	1394
+0	-31 N	0.6862	Sam	track & field	-393	0.3771	1427	0.7671	398	Robotics Engineering	931	250	0.4928	784
+1	1141 N	1.1179	Eriq	motor sports, basketball	1262	0.3328	-28	0.9311	-19	Human Computer Interaction	856	422	0.994	371
+3	725 N	0.5248	Fabrice	tennis	-270	0.3391	1127	0.3151	87	Human Computer Interaction	757	1003	2.0018	327
+0	1156 N	0.6364	Vani	running, track & field, badminton	144	0.6429	1169	1.6103	1592	Robotics Engineering	653	873	0.3018	418
+1	799 N	0.5894	Michael	running, badminton, track & field, ice hockey	951	-0.1195	245	0.5831	444	Applied Mathematics	479	-5	0.7551	113
+0	1059 N	0.2787	Chris	badminton	-765	0.88	599	0.7074	1018	Natural Language Processing	336	533	1.2982	574
+1	333 N	0.4706	Tony	basketball, baseball	1191	0.7693	506	0.7709	62	Human Computer Interaction	607	781	0.4461	259
+2	1103 N	0.0525	Fabrice	golf	None	1.0411	1105	0.196	290	Computational Media	75	276	0.6952	186
+1	1437 N	0.2736	Reilly	motor sports	873	1.465	358	1.348	653	Applied Mathematics	-311	320	0.6595	436
+1	838 N	0.1887	Eriq	basketball, baseball	1147	0.561	-93	1.2215	274	Human Computer Interaction	1103	1179	0.8748	513
+2	1065 N	1.4702	Michael	boxing, golf	1644	0.621	1412	1.0685	1488	Data Science	-138	366	0.3846	987
+2	92 N	0.9165	Michael	boxing, golf	618	0.8298	1267	0.8889	660	Computational Media	-99	377	0.7331	1228
+2	426 N	0.8395	Inan	boxing, football	967	0.2565	1206	?	866	Data Science	472	989	0.5054	1707
+2	293 N	0.5773	Michael	golf	1244	0.6197	1387	0.9357	464	DATA SCIENCE	-263	1040	0.4061	1440
+3	541 N	1.2633	Fabrice	tennis	215	0.9162	940	0.5745	309	?	523	779	0.3862	996
+1	686 N	0.3519	Lise	track & field, volleyball, running, ice hockey	855	-0.3409	912	0.3386	512	Human Computer Interaction	767	1308	1.374	920
+3	759 N	0.7552	Andrew	soccer	8	0.7458	206	0.2475	1041	Bioinformatics	207	710	0.1247	817
+0	1202 N	1.3441	Chris	track & field, volleyball, ice hockey	-364	0.6206	N/A	0.6764	697	Data Science	1043	-249	0.3506	892
+3	1618 N	0.4383	Andrew	tennis	1329	0.5215	962	-0.08	107	Robotics Engineering	433	584	1.1625	1434
+1	1172 N	0.5651	Tony	n/a	646	0.4692	-230	0.997	-93	Human Computer Interaction	1065	438	1.1682	-264
+3	704 N	0.2736	Andrew	track & field, badminton, running	557	0.7931	1109	0.6866	-930	Computer Game Design	863	311	0.4688	1295
+2	168 N	0.9265	Fabrice	golf, football	1240	0.9166	1107	0.1244	N/A	Computational Media	101	449	0.5238	-65
+3	1307 N	-0.1411	Sam	tennis	538	0.6991	-127	0.5508	478	Computer Game Design	352	n/a	0.9991	1063
+3	887 N	0.6826	Fabrice	tennis	29	0.2698	836	-0.4591	990	Bioinformatics	385	1118	1.8414	812
+1	483 N	-0.2037	Tony	baseball, basketball	227	-0.542	-141	0.8348	225	Bioengineering	215	307	1.7359	-180
+1	1508 N	0.3985	Eriq	baseball	1482	0.8124	-267	1.1178	829	Applied Mathematics	632	1001	1.2318	661
+1	1242 N	0.6851	Reilly	basketball	619	0.4917	218	0.2387	147	Applied Mathematics	-153	672	1.1293	-1
+3	1300 N	0.8949	Andrew	football, golf	501	0.6583	1821	0.1147	676	Computer Game Design	458	511	0.9696	-205
+0	1296 N	0.5975	Sam	ice hockey, badminton, track & field	-45	0.5368	903	0.688	418	Natural Language Processing	1258	-233	0.1321	274
+2	-516 N	0.5629	Michael	tennis	1347	0.26	828	1.8371	634	Computational Media	279	850	1.2293	753
+0	1051 N	1.0431	Sam	volleyball, ice hockey	-609	0.4441	91	0.4752	1661	Robotics Engineering	-64	310	0.108	1065
+3	1230 N	0.7821	Fabrice	tennis	669	1.0895	1795	0.3203	751	Computer Game Design	780	1187	0.4642	601
+1	847 N	0.748	Lise	BASKETBALL, BASEBALL	872	0.1951	272	0.2206	358	Human Computer Interaction	1135	568	0.2398	834
+2	26 N	0.5848	Andrew	motor sports	658	0.4808	530	1.4164	385	Technology and Information Management	-164	1112	0.707	-294
+0	725 N	1.0131	Sam	badminton, ice hockey	-239	0.0417	741	0.5492	1179	Robotics Engineering	720	721	0.3895	1759
+2	407 N	0.9732	Michael	boxing, football	445	0.1816	1165	0.1465	1367	Games and Playable Media	261	686	0.4983	115
+0	1188 N	0.6667	TONY	volleyball, running, track & field	102	0.0804	246	1.3027	1058	Statistics	793	772	0.3642	1092
+2	299 N	0.8354	Inan	baseball	492	0.1357	635	1.5353	954	games and playable media	335	151	0.9769	833
+2	312 N	0.9951	Inan	boxing, football	1014	0.9621	1371	1.1469	450	Games and Playable Media	93	1001	0.0694	30
+2	11 N	1.3064	Michael	boxing	1402	0.6461	768	1.0754	693	Computational Media	510	514	1.03	854
+0	1689 N	0.8921	Chris	track & field, running, volleyball	529	1.0151	-59	1.5302	827	Statistics	1143	571	0.6197	936
+0	1398 N	1.2966	Sam	ice hockey	369	0.6682	529	1.4449	1463	Statistics	67	210	0.0377	831
+0	1179 N	0.4409	Chris	ice hockey, badminton	563	0.7959	N/A	1.2644	899	Statistics	862	-22	1.009	377
+2	2 N	1.4886	Inan	boxing	1133	0.1889	301	1.3776	708	Technology and Information Management	821	718	0.767	440
+1	1102 N	0.6872	Tony	baseball, motor sports	616	0.5008	922	0.4876	540	Applied Mathematics	1075	856	0.6946	238
+0	1046 N	0.627	Vani	volleyball, running	-700	1.6451	1532	1.7912	543	Natural Language Processing	469	392	-0.4012	842
+2	592 N	1.065	Inan	track & field	319	0.0127	1764	1.0928	545	cOMPUTER sCIENCE	-184	821	0.4409	798
+0	1178 N	1.1065	Sam	volleyball	9	0.5412	241	1.9388	798	Natural Language Processing	1041	323	0.2616	839
+3	NULL	0.5076	Fabrice	soccer	171	1.7548	1344	0.6315	269	Bioinformatics	790	712	0.6906	1764
+1	1579 N	-0.145	Lise	basketball	1460	0.7372	1087	0.729	560	Bioengineering	67	1132	1.6649	404
+0	657 N	0.4582	Vani	track & field, running	51	0.5484	1018	1.0308	1346	Natural Language Processing	864	137	0.5323	659
+1	893 N	-0.4563	Eriq	motor sports	106	0.3698	-122	0.8622	616	Applied Mathematics	729	1023	1.3271	-105
+2	21 N	0.2789	Michael	golf	1268	0.825	582	0.6384	247	Computational Media	-331	77	0.7482	278
+3	1287 N	0.6985	Fabrice	tennis	113	0.2486	696	0.4074	39	Computer Game Design	65	1007	0.8099	1187
+0	902 N	1.0109	Vani	track & field, running	-331	0.2043	410	1.0321	1871	Computer Engineering	1707	930	0.2449	933
+1	367 N	0.7833	Reilly	baseball	579	0.8475	130	0.6778	37	Bioengineering	606	605	1.5128	545
+2	366 N	1.1021	Michael	football	1122	0.7508	926	0.8653	446	Computational Media	358	860	0.6757	662
+0	1697 N	1.0985	Vani	badminton	-77	0.6861	-56	0.422	1689	Statistics	535	385	1.4207	635
+1	696 N	0.4961	Lise	motor sports, basketball	715	0.8342	77	0.3434	840	Bioengineering	1043	640	0.5236	310
+2	2 N	1.6434	Michael	football, boxing	462	0.4359	616	1.2733	438	Bioinformatics	-264	622	1.5872	1105
+0	692 N	1.0647	Sam	football, golf	321	0.9256	43	0.6707	985	Biotechnology	602	384	-0.1615	1048
+0	399 N	0.6443	Chris	track & field	229	0.9433	None	1.0061	625	Statistics	525	413	-0.1303	n/a
+1	123 N	-0.0711	tONY	motor sports	986	-0.0077	303	0.9629	434	Bioengineering	1056	691	0.9135	88
+1	620 N	-0.5748	Fabrice	football, golf	94	0.6656	1162	0.3844	769	HUMAN COMPUTER INTERACTION	1040	756	1.3141	393
+1	1788 N	0.506	Lise	baseball	457	0.1941	438	0.6551	-118	Human Computer Interaction	627	572	1.0905	1092
+1	1361 N	n/a	Reilly	baseball	1411	1.154	937	0.7106	905	Applied Mathematics	332	919	0.5888	614
+3	632 N	0.5577	Fabrice	tennis	N/A	0.7855	1651	-0.0756	-104	Bioinformatics	608	68	0.383	-91
+3	658 N	0.4766	Fabrice	soccer	-522	0.9189	550	0.5295	1010	Computer Game Design	868	696	1.0517	641
+0	1258 N	0.8499	Sam	Track & Field, Running, Ice Hockey	552	0.1928	93	1.1173		Robotics Engineering	424	85	0.7001	440
+0	535 N	0.5662	Chris	track & field, running, badminton, volleyball	574	1.3408	1573	0.9871	841	statistics	1235	19	0.0145	769
+2	881 N	0.5363	Michael	GOLF, FOOTBALL	592	0.3443	1306	0.7731	1051	Bioinformatics	544	479	0.4537	423
+2	27 N	1.3537	Michael	boxing, golf	1085	0.7581	98	0.0968	1246	Statistics	-175	622	0.8888	316
+2	491 N	0.0688	Inan	football	577	-0.7394	n/a	0.6452	1082	Computational Media	231	1016	0.0373	288
+2	NULL	0.9031	Chris	boxing	1347	0.3319	1572	0.9694	413	Computer Science	-547	684	1.1725	-79
+2	-267 N	1.4061	Inan	golf, boxing	983	1.0197	1820	0.5758	1096	Technology and Information Management	812	617	1.0199	1911
+0	1337 N	0.7642	Chris	ice hockey, track & field	-192	1.3946	1044	1.0311	979	Natural Language Processing	1081	555	-0.0425	1785
+1	1265 N	0.1495	Eriq	motor sports	1382	0.1275	252	0.5788	795	Applied Mathematics	1055	836	1.344	82
+3	936 N	0.433	fABRICE	soccer	945	0.2638	221	-0.7873	-39	Bioinformatics	413	None	0.9185	670
+3	637 N	0.9359	Fabrice	soccer	344	0.5357	855	0.6569	371	Bioinformatics	468	759	0.7976	244
+3	733 N	0.5473	Fabrice	soccer	155	0.9239	882	0.8867	144	Computer Game Design	N/A	474	0.3383	1532
+1	742 N	0.212	Eriq	motor sports, baseball	347	0.0106	-134	0.9651	482	aPPLIED mATHEMATICS	0	779	0.6803	153
+1	168 N	0.4673	Reilly	motor sports, baseball	1482	0.0251	592	0.1253	104	Human Computer Interaction	98	1141	0.7962	-961
+3	502 N	0.8203	Fabrice	running, track & field	28	1.139	485	0.7047	-124	Computer Game Design	1298	212	0.2773	-361
+1	1181 N	0.037	Lise	basketball	1163	0.8163	214	1.3628	95	Human Computer Interaction	1709	838	1.3139	145
+2	155 N	1.5555	Inan	boxing	1022	0.6573	165	0.74	683	Computational Media	-180	89	1.2344	269
+0	889 N	0.9302	NULL	ice hockey	128	-0.2163	285	0.9849	356	Biotechnology	856	204	1.009	1339
+2	78 N	0.8751	Inan	golf, boxing	847	0.4324	1063	0.5696	871	Technology and Information Management	776	791	0.6299	1499
+2	386 N	1.3149	Michael	golf, boxing	1392	n/a	730	0.8045	798	Technology and Information Management	307	535	n/a	1447
+3	485 N	0.0025	Fabrice	soccer	615	1.246	679	0.747	600	bIOINFORMATICS	516	788	1.4498	1415
+3	489 N	0.2506	Fabrice	soccer	553	1.401	1855	0.9857	7	Computer Game Design	-76	1285	1.3254	1010
+2	240 N	0.3886	Michael	football, boxing	384	1.7001	1513	0.42	313	Data Science	-239	594	1.0075	926
+2	115 N	1.1309	Inan	golf	487	0.495	1485	1.5434	1474	Data Science	-749	439	0.7371	1176
+1	1780 N	0.3542	Lise	baseball	602	0.3428	-53	0.5696	1187	Applied Mathematics	1207	318	1.3901	189
+2	N/A	0.92	Inan	boxing, football	1301	1.3408	702	1.3393	479	Computer Science	334	649	0.0946	834
+3	1120 N	1.017	Andrew	soccer	-306	1.068	485	0.3005	636	Bioinformatics	80	801	0.7923	1377
+0	1743 N	0.7682	Sam	track & field, volleyball, running, badminton	339	0.3709	693	1.3707	579	Electrical Engineering	1117	401	0.3214	458
+1	1150 N	0.3931	Tony	running, volleyball, badminton	631	-0.3731	-169	0.9276	977	Applied Mathematics	86	632	0.5862	-21
+0	1266 N	0.4295	Sam	badminton, track & field	514	0.7076	793	1.1111	540	Electrical Engineering	404	845	0.0013	441
+3	942 N	0.4185	Fabrice	tennis	222	0.8127	938	0.0729	197	Computer Game Design	480	1195	0.9764	773
+1	1607 N	0.4767	Reilly	basketball, baseball	785	0.2482	None	0.9585	844	Bioengineering	279	433	1.5195	265
+3	1162 N	0.4502	Chris	badminton, track & field, running, ice hockey	187	0.8915	796	0.4417	557	Bioinformatics	982	79	1.7948	865
+2	285 N	0.7697	Michael	golf	1405	0.8372	174	1.3768	1078	Data Science	592	867	0.3638	810
+2	1121 N	1.1976	Michael	running	1097	0.2761	943	1.2259	775	Computer Science	-261	793	1.7015	1499
+2	n/a	0.8546	Inan	tennis	952	1.5525	1132	0.6539	?	Data Science	600	247	1.318	653
+3	115 N	1.1239	Fabrice	soccer	-174	0.4367	1144	0.3318	674	Computer Game Design	354	424	0.8891	875
+3	768 N	0.1042	Fabrice	boxing, golf	798	0.928	757	0.4436	667	Bioinformatics	336	424	1.0303	488
+1	707 N	0.6483	Tony	motor sports, baseball	118	-0.0988	-278	0.4379	-258	Bioengineering	671	1216	1.8211	139
+3	578 N	-0.0406	Vani	tennis	564	0.6743	726	0.033	n/a	Computer Game Design	-98	230	0.9517	1262
+0	718 N	0.7338	Michael	baseball	-232	0.4376	1570	0.2104	641	Biotechnology	556	934	-0.0292	n/a
+1	1432 N	0.1138	Reilly	Motor Sports	997	0.3316	-151	0.5873	134	Applied Mathematics	376	939	1.3852	-121
+3	501 N	0.5433	n/a	tennis	67	0.4492	898	1.3306	-318	Bioinformatics	447	1142	0.8892	1060
+3	669 N	0.6149	Andrew	tennis	-288	0.7191	591	0.0789	490	Bioinformatics	523	944	0.9402	1248
+1	1194 N	0.359	Tony	basketball, baseball	806	0.4038	-203	0.036	26	Bioengineering	1028	978	1.5747	-284
+0	1346 N	0.7382	Sam	track & field, volleyball, running, badminton	733	0.5399	698	0.4096	1778		335	250	-0.4023	751
+0	719 N	0.3427	Sam	volleyball, badminton	220	0.8232	184	0.3133	1181	Electrical Engineering	234	-243	-0.4341	-33
+2	1040 N	0.5354	Michael	boxing	1731	-0.1073	761	1.863	1295	Data Science	337	880	0.7916	900
+3	625 N	0.7023	Andrew	tennis	767	0.5536	1683	0.6905	-459	Bioengineering	562	450		1392
+0	1068 N	0.4496	Vani	badminton, running, volleyball, track & field	46	0.3173	866	1.7372	1266	Natural Language Processing	445	1	0.309	1017
+1	839 N	0.6938	Reilly	motor sports	390	0.3143	418	-0.0439	872	Bioengineering	1406	400	0.5834	549
+1	1313 N	0.3629	Eriq	boxing, football	874	0.2507	852	1.2583	-484	Human Computer Interaction	654	772	0.189	300
+3	578 N	1.388	Andrew	basketball, motor sports	292	1.0608	1199	0.7277	176	Computer Game Design	-162	187	0.5325	879
+2	584 N	1.3055	Michael	football	N/A	0.8395	75	1.969	765	Computer Science	30	560	0.3152	600
+2	416 N	1.365	Inan	golf, football	1205	0.3322	239	1.479	1130	Games and Playable Media	-437	379	0.2344	145
+1	1721 N	-0.3922	Eriq	basketball	525	0.8482	467	1.0377	1409	Bioengineering	1118	478	1.2727	361
+1	1229 N	0.5382	Eriq	boxing, football	740	0.0526	-685	0.5917	280	Bioengineering	419	1598	0.6187	119
+1	916 N	0.5264	Reilly	motor sports, basketball	892	0.3842	80	0.5235	866	Bioengineering	1516	493	1.1694	-408
+0	1492 N	1.0366	Michael	running, track & field, badminton, ice hockey	-119	0.5533	1060	0.7589	1181	biotechnology	856	347	0.592	564
+1	270 N	0.0474	Lise	boxing	516	0.3634	146	0.7353	224	Applied Mathematics	945	1231	1.0141	-505
+2	-237 N	0.9609	Michael	boxing, golf	734	0.3039	1201	0.8483	345	Data Science	590	197	0.4564	812
+3	908 N	0.9534	Andrew	tennis	414	0.6807	868	0.7508	222	Bioinformatics	485	533	1.6241	1536
+2	722 N	1.1469	Michael	motor sports, basketball	1454	1.3064	630	1.0487	252	Computational Media	-117	149	0.6787	60
+2	178 N	0.8609	Inan	boxing	1471	1.0698	879	1.3545	916	Technology and Information Management	308	766	0.9032	1222
+2	1317 N	0.2139	Michael	basketball, motor sports	1599	0.7279	1260	1.055	544	Games and Playable Media	101	302	1.4188	-319
+0	1138 N	1.4882	Vani	badminton, ice hockey	146	0.291	798	1.2312	1216	Electrical Engineering	620	456	0.393	891
+1	1594 N	0.2445	Lise	baseball	1278	0.6308	389	1.2735	328	Bioengineering	1050	995	0.7433	-195
+0	444 N	1.1348	Vani	boxing	-362	0.336	346	1.3128	1313	Robotics Engineering	950	461	-0.3882	794
+3	957 N	0.1763	Fabrice	badminton	640	1.2434	621	0.9708	-410	Bioinformatics	1101	687	0.862	1064
+2	127 N	0.9648	Inan	boxing, football	400	0.4544	989	1.2693	1557	Computational Media	658	666	1.8901	465
+2	232 N	1.3652	Inan	boxing	1623	0.4289	1153	0.477	774	tECHNOLOGY AND iNFORMATION mANAGEMENT	-182	911	0.9544	-119
+3	1003 N	0.1421	Fabrice	motor sports	276	0.8818	952	0.9498	-57	Statistics	462	650	0.426	1015
+1	886 N	0.6895	Sam	basketball, baseball	824	0.5589	60	1.1724	475	Human Computer Interaction	1108	874	1.146	-605
+2	542 N	0.1732	Inan	golf, boxing	893	0.5063	1395	0.3262	522	Data Science	100	880	1.7298	-155
+1	1538 N	-0.3058	Reilly	motor sports	635	NULL	915	-0.0456	1362	Human Computer Interaction	663	753	1.6968	136
+2	471 N	0.4187	Michael	golf, boxing	1830	1.3651	539	0.5406	856	Games and Playable Media	465	387	1.74	735
+3	639 N	0.6591	Fabrice	soccer	459	0.9065	846	0.186	268	Bioinformatics	535	603	-0.3739	1393
+2	334 N	0.6667	Michael	football, boxing	991	0.9728	1364	0.8587	429	Applied Mathematics	-118	708	1.3983	1123
+3	942 N	0.8249	Andrew	tennis	788	0.7659	1641	0.588	274	Bioinformatics	387	775	0.9569	918
+0	842 N	0.7963	Sam	running, track & field, volleyball, ice hockey	542	0.9455	1316	0.6182	449	Natural Language Processing	884	282	0.6396	1052
+0	1044 N	-0.1309	Sam	ice hockey, volleyball, badminton, track & field	610	0.3349	787	1.0841	1364	Biotechnology	809	757	0.9177	714
+3	589 N	0.8939	Fabrice	soccer	220	0.6818	1427	1.4192	-893	Computer Game Design	-29	1171	0.2345	981
+0	355 N	0.9736	Vani	running, ice hockey, badminton, track & field	-185	0.6455	236	1.0952	621	Statistics	507	-7	-0.1316	974
+0	800 N	-0.0386	Sam	basketball	253	0.4444	1100	1.0313	465	Natural Language Processing	1702	71	0.9765	-313
+3	476 N	1.115	Fabrice	tennis	881	0.6135	1208	0.3685	733	Bioinformatics	694	934	0.9802	301
+3	1648 N	0.8398	Andrew	soccer	305	0.2372	736	0.5267	180	Bioinformatics	1007	653	0.5621	155
+3	1262 N	1.6197	Fabrice	tennis	134	0.8022	663	0.2288	-7	Bioinformatics	327	257	0.1336	804
+3	1585 N	0.7322	Fabrice	tennis	404	0.8597	936	0.6824	384	Bioinformatics	159	416	0.0324	629
+0	1412 N	0.2145	VANI	track & field, volleyball	-217	-0.0218	904	0.202	881	Robotics Engineering	802	-209	-0.2936	909
+1	637 N	-0.4963	Eriq	motor sports, basketball	661	0.8354	374	1.2049	1011	Bioengineering	697	367	1.5157	-553
+1	1013 N	0.4232	Reilly	motor sports, basketball	N/A	0.2634	-547	1.0221	621	Applied Mathematics	1097	579	0.5482	561
+2	127 N	0.9265	Inan	golf, football	1218	1.1254	1406	0.7109	1228	Data Science	410	518	0.4888	1467
+2	338 N	1.5325	Inan	boxing	627	0.5621	796	n/a	968	Computational Media	-120		1.0344	701
+0	1134 N	0.3289	Chris	volleyball, ice hockey	342	0.6237	1137	1.1588	608	Computer Engineering	741	197	0.2784	1333
+0	448 N	0.9197	Sam	badminton	-759	0.2907	167	0.6761	853	Computer Engineering	1152	235	0.2468	1321
+3	279 N	0.3868	Andrew	tennis	504	0.7152	983	0.5672	-34	Computer Game Design	757	801	1.5386	696
+1	438 N	0.1958	Lise	baseball, motor sports	1376	0.4455		0.8666	559	Human Computer Interaction	231	669	0.6638	649
+0	1283 N	0.3743	Sam	running, badminton, track & field, ice hockey	480	0.3011	1214	0.8306	845	Statistics	588	1116	0.5099	726
+3	790 N	1.0445	Andrew	soccer	-242	1.2077	685	0.6406	-92	Computer Game Design	-245	957	1.3828	1333
+1	1460 N	0.1386	Eriq	baseball, basketball	208	0.1981	497	1.6002	476	Bioengineering	749	809	0.7198	483
+3	584 N	-0.0297	Fabrice	soccer	257	1.0158	745	0.2902	299	Computer Game Design	695	592	1.3306	802
+0	1192 N	0.5332	Sam	running, ice hockey, badminton, track & field	194	None	-36	0.5365	843	Robotics Engineering	243	-375	0.9461	558
+3	210 N	0.488	Andrew	soccer	462	0.7592	435	-0.0575	-264	Bioinformatics	-331	309	1.1759	1189
+2	196 N	0.4115	Michael	FOOTBALL, GOLF	787	1.0314	1229	1.5439	815	Computer Science	564	590	0.2295	142
+3	52 N	0.8119	Fabrice	soccer	746	0.143	1277	0.453	102	Computer Game Design	334	291	0.892	916
+3	700 N	0.9776	Andrew	tennis	-18	1.1574	1017	0.2329	1029	Bioinformatics	420	None	0.5495	1435
+1	1947 N	-0.03	Eriq	football, boxing	1046	0.0817	8	0.8695	-187	Human Computer Interaction	463	1071	1.4436	788
+0	1109 N	0.6323	Chris	badminton, running, track & field, volleyball	-151	0.6525	311	1.2346	890	computer engineering	977	320	0.328	1116
+3	774 N	0.3337	Fabrice	soccer	606	0.7439	1074	-0.0207	529	Computer Game Design	683	1072	0.6231	341
+2	467 N	1.1333	Inan	track & field, ice hockey, running	720	0.3242	1140	0.9692	1166	Computational Media	106	484	0.9937	-129
+2	30 N	1.0617	Michael	football	1408	0.0996	1105	1.5498	1624	Data Science	213	871	1.3376	860
+1	491 N	-0.172	Reilly	basketball	464	-0.3584	1379	1.4273	591	Applied Mathematics	998	582	1.6476	-16
+3	640 N	0.6615	Fabrice	soccer	-830	0.4683	777	1.1409	-495	Computer Engineering	5	505	1.329	843
+1	1139 N	0.7998	Eriq	motor sports	367	-0.3399	146	0.8571	546	Bioengineering	378	765	0.6124	311
+3	1501 N	0.1264	Michael	boxing, football	394	0.9919	1269	1.1756	-232	Bioinformatics	-368	1053	1.068	1400
+1	1529 N	1.0713	Lise	basketball	1042		-654	0.4054	-342	Applied Mathematics	288	998	1.4798	-61
+0	1502 N	1.1604	Chris	badminton, running	-413	1.4343	238	0.7308	285	Statistics	697	16	0.3473	1439
+2	182 N	0.4669	Inan	football	1910	0.644	550	1.216	292	Games and Playable Media	61	342	1.3419	1070
+1	1075 N	0.7322	Tony	motor sports	-119	1.1816	281	0.9117	478	Bioengineering	882	755	0.2207	724
+3	556 N	0.6939	Fabrice	tennis	174	0.1407	658	-0.2138	175	Computer Game Design	480	-521	1.293	584
+0	927 N	0.8993	Vani	running	273	0.5948	985	1.3482	1104	Applied Mathematics	1431	11	0.5206	779
+3	269 N	0.9325	Andrew	tennis	776	0.5168	957	-0.4107	206	Computer Game Design	-372	1113	1.1307	734
+0	1383 N	0.0898	Sam	volleyball, track & field, badminton, running	-240	0.5205	1276	1.303	825	computer engineering	999	396	0.3588	857
+1	830 N	0.8145	Tony	baseball	159	0.214	-218	1.0632	577	Applied Mathematics	658	906	1.292	79
+1	1369 N	0.4096	Lise	baseball	1297	0.6718	53	1.4466	238	Applied Mathematics	1407	823	0.2989	262
+2	350 N	1.2088	Michael	football	692	0.6135	806	1.8371	756	Computer Science	540	564	1.3079	145
+1	834 N	-0.0469	Tony	motor sports, baseball	544	0.0808	728	0.3187	517	Human Computer Interaction	300	69	1.0533	591
+1	1193 N	0.1919	Reilly	baseball, basketball	637	0.4679	542	1.27	1191	Human Computer Interaction	884	927	1.1996	237
+1	1061 N	-0.212	Reilly	basketball, baseball	611	0.323	84	1.6611	700	Bioengineering	685	902	0.5607	692
+0	673 N	0.6928	Sam	badminton, volleyball, running	823	0.9802	564	2.5502	1254	Computer Engineering	1017	45	1.506	344
+3	1407 N	0.307	Andrew	tennis	760	0.7657	967	0.4344	-124	Computer Game Design	147	526	1.1476	1659
+3	1390 N	0.4143	Andrew	soccer	454	1.3009	1481	0.5789	394	Bioinformatics	443	489	1.5644	1402
+3	431 N	0.2415	Fabrice	baseball, motor sports	-430	0.8724	253	0.0499	392	BIOINFORMATICS	193	689	0.3109	838
+0	594 N	0.3677	vANI	running, volleyball, ice hockey, track & field	-1117	0.6367	574	0.7644	677	Natural Language Processing	567	255	0.1646	1340
+1	1354 N	0.7876	Reilly	baseball	1030	0.6785	-134	1.6685	280	Human Computer Interaction	1113	828	0.854	-560
+1	338 N	-0.1266	Tony	basketball	248	1.0579	718	0.1694	608	Applied Mathematics	442	459	1.6575	697
+0	1175 N	1.1136	Chris	ice hockey	710	0.4928	910	1.61	1128	Electrical Engineering	899	108	0.3406	523
+2	604 N	0.2268	Chris	football	949	1.0797	496	1.3281	510	Data Science	-5	839	0.4825	806
+1	1485 N	0.6031	Reilly	baseball, basketball	185	0.1554	571	1.2416	943	Bioengineering	1261	449	1.2373	401
+1	1064 N	N/A	Eriq	basketball	537	0.4549	562	0.2143	122	Human Computer Interaction	990	99	2.5545	215
+1	920 N	0.682	Reilly	baseball, motor sports	407	0.1431	981	0.7178	-256	Bioengineering	209	1106	0.9732	970
+3	1200 N	1.0427	Fabrice	tennis	61	1.143	811	0.0081	-506	Bioinformatics	335	788	-0.0827	893
+2	397 N	1.5316	Inan	golf	768	0.2731	1306	0.4416	524	Computational Media	-37	556	0.8256	823
+3	410 N	0.7952	Andrew	tennis	844	1.5823	1768	0.3037	106	Computer Game Design	517	724	1.4287	823
+3	1912 N	1.2851	Fabrice	soccer	312	0.7261	867	0.0283	196	Computer Game Design	241	811	1.0066	678
+0	2135 N	0.6386	Sam	track & field, ice hockey, volleyball, badminton	-256	0.6817	671	1.3473	1279	Statistics	1712	850	0.8208	829
+0	982 N	1.3485	Sam	ice hockey, track & field, volleyball	641	-0.6226	1518	0.6665	1147	Electrical Engineering	1724	405	0.5352	829
+3	639 N	0.979	Andrew	soccer	279	0.7676	1065	0.108	-88	Bioinformatics	173	990	0.3309	N/A
+1	453 N	0.9728	Lise	baseball, motor sports	230	0.1987	193	0.9209	-57	Human Computer Interaction	None	768	0.9451	92
+3	489 N	0.7221	Fabrice	soccer	-434	0.8469	485	0.6742	330	Bioinformatics	273	880	0.6416	441
+3	1423 N	-0.1027	Tony	soccer	694	0.5748	761	0.1648	170	Bioinformatics	620	866	0.7553	1008
+1	774 N	-0.026	Tony	motor sports, basketball	343	-0.5932	682	0.7988	395	Applied Mathematics	1244	490	0.3955	371
+2	-50 N	1.4751	Inan	boxing	1276	0.1347	1049	1.6202	255	Computer Science	-373	983	0.4119	889
+0	851 N	1.3484	Michael	badminton, volleyball, ice hockey	-406	0.5653	804	1.0376	1113	Robotics Engineering	1273	85	0.9762	943
+2	361 N	1.0406	Michael	golf, boxing	912	0.4232	1180	0.8173	1121	Data Science	398	872	0.8351	389
+2	516 N	1.1239	Michael	football, golf	1646	0.8733	1025	1.4308	787	Games and Playable Media	None	371	1.2814	229
+2	1302 N	0.6611	Michael	basketball, motor sports	968	0.7445	1432	0.8456	816	Games and Playable Media	602	717	0.329	422
+2	14 N	0.2572	Michael	GOLF, FOOTBALL	1082	0.7797	1369	0.7017	360	Technology and Information Management	758	171	1.401	1411
+3	1451 N	0.3482	Fabrice	tennis	263	0.3768	NULL	0.5722	332	Bioinformatics	190	1352	0.3639	517
+0	987 N	1.6485	N/A	tennis	390	0.2034	949	0.3385	1076	Computer Engineering	865	641	-0.3697	1616
+1	416 N	0.2138	Eriq	basketball	980	-0.0468	616	1.1434	388	Bioengineering	1041	439	1.5342	165
+2	60 N	0.9745	Inan	boxing	1223	0.9053	1694	1.185	1083	Computer Science	575	480	0.8262	430
+2	315 N	1.0084	Michael	football	573	0.123	1798	1.5298	819	Data Science	-93	535	0.0605	1264
+0	527 N	0.6739	Vani	boxing, football	-937	0.8225	-57	1.6282	1046	Computer Engineering	-339	729	0.4307	403
+1	586 N	0.8199	Tony	baseball, motor sports	870	-0.1977	-312	0.5181	1138	Applied Mathematics	423	742	NULL	595
+0	157 N	0.0084	Michael	running, track & field	-58	0.4463	-19	1.0872	1018	Statistics	790	384	0.095	922
+3	1159 N	1.3307	Andrew	tennis	332	0.5944	247	0.7404	305	Bioinformatics	1226	311	0.6222	903
+2	360 N	1.4605	Inan	FOOTBALL, GOLF	1313	0.0918	964	0.9279	700	Data Science	379	809	0.9964	356
+1	710 N	-0.1565	Eriq	ice hockey, badminton	364	-0.3917	-35	0.5942	506	Data Science	1067	860	0.9775	629
+3	1035 N	0.4767	Andrew	football, boxing	320	0.6647	531	0.4533	733	Bioinformatics	295	900	1.3719	1236
+1	n/a	0.5336	Lise	motor sports, baseball	753	0.3786	NULL	0.486	242	Computer Game Design	886	358	0.6304	567
+1	320 N	0.8827	Tony	motor sports, baseball	674	0.8321	-736	1.124	-13	Bioengineering	1091	948	0.6805	278
+1	480 N	0.2372	Eriq	basketball	-328	0.1357	-392	0.5483	490	Bioengineering	338	n/a	0.6333	-110
+0	-33 N	0.631	Vani	ice hockey, running, track & field, volleyball	307	0.5427	1053	1.7014	1633	Robotics Engineering	829	-63	0.5727	269
+2	351 N	1.1117	Inan	GOLF, BOXING	1439	0.8704	831	0.6068	1022	Bioinformatics	-62	902	1.662	-19
+1	2149 N	-0.2293	Lise	motor sports, basketball	789	-0.4995	377	0.6574	446	Applied Mathematics	791	604	0.8827	4
+2	929 N	0.3756	Michael	tennis	659	0.5318	687	0.844	616	Data Science	-208	683	1.2112	1217
+0	864 N	0.6032	N/A	basketball, motor sports	-79	1.121	566	1.4583	777	Natural Language Processing	1253	688	0.4458	724
+3	907 N	0.0658	Fabrice	soccer	152	1.1205	551	0.3393	158	Computer Game Design	834	636	1.1261	834
+0	1062 N	0.7291	Michael	badminton, running, ice hockey, track & field	68	1.0872	540	0.93	1766	Computer Engineering	464	565	-0.49	502
+3	1244 N	0.5108	Andrew	soccer	674	0.5902	1242	0.3422	132	Computer Game Design		1072	1.4489	477
+3	1439 N		Andrew	tennis	143	0.7981	703	0.7297	164	Bioinformatics	746	1033	0.2966	303
+2	661 N	-0.1602	Michael	basketball, baseball	1143	0.8434	825	1.4833	1510	Data Science	-399	641	0.8055	905
+0	974 N	1.8793	Tony	ice hockey, volleyball, running, track & field	311	0.3074	867	0.8276	920	Robotics Engineering	1320	321	0.8627	1607
+1	589 N	0.3738	Reilly	basketball, motor sports	144	0.1839	-638	0.7096	825	aPPLIED mATHEMATICS	825	795	0.9071	550
+1	736 N	0.9344	Reilly	motor sports	849	0.6159	332	0.8995	504	Applied Mathematics	495	578	1.0838	11
+1	1325 N	0.4125	Eriq	baseball	614	0.279	122	0.0734	331	Applied Mathematics	630	477	1.2516	1054
+2	-331 N	0.7442	Lise	running, badminton, track & field	1065	0.541	1013	0.4886	468	Technology and Information Management	474	1097	1.1745	683
+2	6 N	1.2211	Inan	boxing, football	1319	0.3985	n/a	0.9372	1171	Games and Playable Media	705	935	0.9598	3
+1	1143 N	-0.1808	Eriq	basketball, motor sports	1124	0.1292	-363	0.7447	240	Computer Science	898	905	1.2684	-219
+2	717 N	0.7273	Michael	boxing, football	393	0.1313	931	1.4474	357	Technology and Information Management	172	607	1.4029	-108
+0	522 N	0.3089	Sam	running, badminton, track & field, ice hockey	184	0.5025	1370	0.3168	819	Electrical Engineering	629	-221	0.7853	1169
+1	679 N	0.47	Andrew	basketball, motor sports	905	0.6502	555	0.9358	781	Applied Mathematics	1370	755	1.0927	-338
+2	138 N	1.2997	Inan	golf, boxing	597	1.255	1061	0.7111	983	Data Science	414	1274	0.7336	-155
+1	1157 N	-0.0038	Tony	baseball, basketball	-57	-0.3552	679	0.3456	-205	Human Computer Interaction	447	565	0.8765	201
+2	478 N	1.1479	Inan	baseball	1183	0.4192	1335	1.8533	1045	Human Computer Interaction	454	949	0.0587	1064
+1	235 N	0.1619	Lise	baseball	562	-0.0121	45	0.8137	6	Applied Mathematics	923	614	1.1695	345
+1	1491 N	0.4614	Tony	baseball, motor sports	765	0.3116	-533	0.4883	88	Applied Mathematics	941	554	0.5039	247
+1	867 N	0.0389	Eriq	baseball, basketball	623	-0.5077	861	0.0913	208	Bioengineering	1236	1190	0.4884	398
+2	-175 N	0.8949	Inan	golf, football	596	0.7345	819	1.0077	601	Computational Media	371	-284	1.5808	836
+0	1885 N	0.8289	Chris	volleyball, track & field, badminton	439	-0.1479	1491	0.5285	1173	Biotechnology	666	530	-0.1457	1002
+3	-357 N	0.1846	Andrew	soccer	496	1.0521	1161	0.3186	-53	Bioinformatics	-292	785	0.8425	1605
+1	701 N	-0.0303	Reilly	basketball	1013	0.1059	-579	1.3138	NULL	Human Computer Interaction	874	803	0.5553	582
+2	195 N	0.4181	Inan	soccer	1038	0.986	1538	0.3093	761	Technology and Information Management	204	571	0.9571	286
+1	1990 N	-0.1556	Eriq	baseball, motor sports	467	0.3073	424	0.6085	1122	Human Computer Interaction	636	270	0.5396	-239
+1	1161 N	-0.3057	Reilly	boxing	761	-0.3375	441	0.9251	616	Human Computer Interaction	271	1000	0.6152	25
+1	1051 N	0.0544	Eriq	basketball	196	0.3567	1278	0.9267	-25	Human Computer Interaction	1210	187	0.8781	-198
+1	980 N	-0.0955	Reilly	Motor Sports, Baseball	-95	0.9879	565	1.3802	-162	Human Computer Interaction	1515	1389	0.2289	-136
+0	1831 N	1.4947	Chris	ice hockey, badminton, track & field, running	473	0.5449	37	1.8409	456	Statistics	-22	18	0.8712	467
+0	1026 N	0.7003	Sam	volleyball, running, badminton, track & field	-319	1.2532	1127	0.6385	1221	Biotechnology	687	-3	0.1575	549
+0	1281 N	0.3846	mICHAEL	running, volleyball	217	0.8806	839	0.9185	214	Statistics	187	176	-0.2236	605
+0	921 N	0.7977	Sam	volleyball, badminton	566	0.7253	300	0.4407	424	Electrical Engineering	741	None	1.0549	638
+3	551 N	0.5584	Inan	tennis	-13	1.4851	1008	0.5192	273	Bioinformatics	588	448	0.83	1423
+0	767 N	0.5213	Vani	Track & Field, Badminton, Ice Hockey	-267	1.0147	589	0.9104	656	Natural Language Processing	634	400	0.2249	1477
+1	820 N	1.1159	Tony	motor sports, basketball	681	-0.1762	-482	0.8589	123	Applied Mathematics	796	1053	0.233	-662
+1	539 N	-0.1477	Lise	basketball, baseball	1046	0.1289	-230	0.8874	1308	Applied Mathematics	1041	473	0.0627	238
+0	1017 N	1.0616	Chris	volleyball, running, badminton	-243	0.2153	629	1.715	NULL	Statistics	713	335	0.3742	970
+2	699 N	0.5781	Michael	boxing	716	0.3255	1038	0.0856	18	Computational Media	301	849	0.8676	789
+0	789 N	1.1356	Andrew	badminton, running, ice hockey	300	0.1237	1073	0.2532	395	Computer Engineering	-77	28	0.0964	586
+2	852 N	0.5219	Michael	boxing, golf	1201	0.6607	763	1.4699	1025	Technology and Information Management	145	831	1.033	58
+0	-51 N	0.5334	Chris	ice hockey, badminton, volleyball, running	578	0.2309	650	0.9614	1189	Electrical Engineering	712	535	0.0141	218
+2	464 N	0.6532	Michael	golf	1265	1.4106	925	-0.0352	1523	Computer Science	121	420	1.1	335
+0	1290 N	0.3922	Sam	running, ice hockey	244	0.8175	904	1.2554	1490	Electrical Engineering	269	-510	0.9696	762
+2	723 N	1.0005	Michael	motor sports	192	1.0105	14	0.5139	184	Data Science	57	235	0.7846	-23
+1	1011 N	0.8774	Lise	motor sports	349	0.0229	520	0.8043	356	Human Computer Interaction	900	1069	0.684	59
+1	931 N	-0.1593	Lise	soccer	-201	0.5059	141	0.3647	507	Human Computer Interaction	n/a	651	0.7352	261
+3	484 N	0.6387	Andrew	tennis	344	0.3043	1570	1.2129	401	Computer Game Design	127	953	0.4678	694
+1	473 N	0.1801	Inan	volleyball	578	-0.1461	-217	0.912	29	Human Computer Interaction	599	-70	0.9229	29
+0	1107 N	0.7233	Chris	Track & Field	-132	0.8629	390	1.5808	1206	sTATISTICS	662	586	0.2671	1371
+1	541 N	-0.0268	eriq	basketball	118	0.4814	-57	-0.5567	336	Applied Mathematics	857	923	1.055	392
+1	746 N	0.9515	Lise	basketball, motor sports	489	0.3076	5	0.7921	-249	aPPLIED mATHEMATICS	593	1093	1.2188	442
+1	1739 N	-0.4842	Reilly	basketball	790	0.5972	764	0.2758	-18	Human Computer Interaction	1224	410	0.2788	214
+3	706 N	1.134	Andrew	tennis	932	1.1232	1560	0.6377	-620	Computer Game Design	556	150	1.0881	1127
+1	983 N	0.5121	Lise	motor sports	94	0.2021	273	0.2823	222	Human Computer Interaction	761	477	0.1326	110
+0	776 N	0.169	Chris	track & field	516	0.572	?	1.1652	538	Natural Language Processing	960	588	0.0471	893
+0	1114 N	0.7378	Chris	ice hockey, badminton, running	-81	0.0055	638	1.2842	1264	Electrical Engineering	679	569	0.5183	763
+0	1629 N	0.3364	Chris	badminton, running, volleyball	1099	1.4323	237	1.0797	870	Robotics Engineering	1071	578	0.1011	324
+3	497 N	1.2268	Eriq	baseball, motor sports	-28	1.8203	854	0.116	47	Computer Game Design	464	404	0.4451	1347
+1	455 N	0.7478	Eriq	track & field, running, volleyball	490	-0.3077	-74	0.7791	-49	Applied Mathematics	1017	-68	1.3273	609
+3	792 N	0.5272	Andrew	tennis	424	0.6243	1034	0.7202	259	Computer Game Design	833	440	0.1375	810
+1	568 N	0.3021	Lise	motor sports, basketball	1436	0.6201	864	0.8217	561	Applied Mathematics	392	243	0.9621	11
+3	142 N	0.5564	Andrew	SOCCER	682	0.2224	826	0.6593	-355	Computer Game Design	551	760	1.2049	310
+0	1175 N	0.9179	Chris	track & field, badminton	330	0.6439	853	0.6163	1111	Natural Language Processing	445	284	0.904	837
+1	502 N	0.3743	Tony	motor sports	84	0.4439	266	1.5473	1084	Applied Mathematics	1164	559	0.7001	515
+2	466 N	0.6543	Michael	boxing, football	1464	0.1092	640	1.9986	1133	Games and Playable Media	-528	396	1.074	382
+1	1574 N	-0.3748	Tony	soccer	?	0.4249	888	0.961	188	Bioengineering	749	975	1.3803	-89
+1	1116 N	-0.4936	Eriq	baseball, basketball	-65	0.7003	-312	0.9684	237	Human Computer Interaction	997	809	1.4251	207
+0	1060 N	0.4547	Chris	track & field	476	0.8985	141	0.7815	815	Computer Engineering	None	65	-0.2191	1269
+3	1454 N	0.8803	Andrew	tennis	841	1.2724	607	0.4119	466	Computer Game Design	-64	555	0.8525	-299
+3	1061 N	1.2499	Andrew	tennis	579	0.4194	854	0.2631	-151	Computer Game Design	611	-31	0.7252	1385
+3	1285 N	0.9386	Fabrice	tennis	129	0.835	980	-0.1594	-293	Bioinformatics	1040	523	0.8054	n/a
+0	1142 N	0.6404	Sam	ice hockey, badminton, running	-40	1.0137	138	1.1128	713	Computer Engineering	269	1173	0.5144	-30
+3	1401 N	1.3623	Fabrice	soccer	551	1.2082	878	0.2979	-479	Computer Game Design	239	570	0.7347	537
+3	849 N	1.625	Fabrice	soccer	466	1.1496	988	0.2687	132	Bioinformatics	762	756	0.9328	1367
+3	897 N	1.1613	Andrew	soccer	1176	0.3709	297	0.5478	183	Bioinformatics	-221	926	1.451	285
+3	778 N	0.4954	Fabrice	baseball, motor sports	-200	0.899	444	-0.6633	516	Computer Game Design	843	NULL	0.2049	1017
+0	596 N	0.4764	Sam	track & field	-271	0.7832	917	0.6506	1264	Robotics Engineering	274	91	-0.0061	987
+3	1166 N	0.213	Fabrice	soccer	160	1.0101	787	0.4079	300	Computer Game Design	-51	893	0.5943	87
+2	None	0.7151	Inan	boxing	866	-0.0477	487	0.6734	482	Computational Media	434	302	0.5735	631
+0	819 N	1.171	Vani	Soccer	535	0.5086	1142	1.9237	639	Natural Language Processing	1409	672	-0.308	880
+0	810 N	1.6718	Sam	Ice Hockey, Badminton	147	0.5967	585	1.1967	834	Biotechnology	-116	-238	0.6329	986
+3	172 N	0.9375	Fabrice	tennis	-268	1.0108	-5	0.8031	647	Computer Game Design	-494	1056	1.0796	72
+2	-328 N	0.2244	Inan	golf	1042	0.291	563	0.9023	324	Applied Mathematics	437	367	1.2093	144
+2	220 N	1.5825	Vani	golf, boxing	896	0.7306	748	1.6298	529	Computer Science	-485	893	0.816	351
+1	1007 N	0.0912	eRIQ	badminton, track & field, running, ice hockey	529	0.3029	41	1.2964	547	Bioengineering	659	312	1.4219	-14
+1	424 N	0.0195	Eriq	motor sports, basketball	208	0.1211	510	0.8844	-398	BIOENGINEERING	751	531	1.0764	423
+3	444 N	0.4632	Andrew	tennis	109	0.8398	1437	-0.1914	663	Computer Game Design	209	869	1.2645	1174
+2	857 N	0.9618	Michael	tennis	1136	1.0684	752	0.8173	939	Data Science	529	462	1.3715	1416
+2	621 N	0.2338	Inan	golf	1262	0.2459	16	1.4531	1064	Technology and Information Management	331	556	0.515	745
+0	1018 N	0.4757	Vani	motor sports	92	0.3457	449	1.1847	1394	Biotechnology	355	625	0.7694	602
+2	187 N	1.0091	Inan	track & field, volleyball, ice hockey, running	1412	1.0278	1361	1.6286	1061	Games and Playable Media	988	220	2.4235	886
+1	1207 N	-0.2305	Reilly	basketball, motor sports	1066	-0.3826	-319	1.2556	212	Applied Mathematics	866	1268	1.5223	7
+2	442 N	0.7195	Inan	golf	-71	0.6798	671	0.6077	626	Games and Playable Media	-307	284	0.7307	-76
+2	203 N	0.2559	Michael	football, golf	514	0.25	375	1.0691	172	Data Science	350	380	1.302	304
+0	1247 N	1.2147	Sam	None	-189	0.0677	444	1.7128	1288	Statistics	691	614	1.0454	432
+2	1095 N	1.2393	Inan	boxing	1199	1.0883	988	1.1387	1138	Computer Science	349	600	1.0893	343
+2	1450 N	0.9955	Michael	basketball	1156	1.5606	1469	1.0727	1201	Data Science	-230	913	0.0834	1106
+1	812 N	-0.1427	Lise	motor sports, basketball	942	0.0964	184	0.7316	544	Applied Mathematics	1307	1032	0.9235	-45
+2	-34 N	0.5862	Michael	football	1202	0.7798	1502	1.6115	876	Games and Playable Media	551	1010	1.2354	1079
+0	1325 N	-0.1168	Vani	ice hockey	-9	0.7879	807	0.9326	1089	Robotics Engineering	1416	428	0.5252	1532
+1	1480 N	-0.2213	Eriq	soccer	160	0.115	1080	0.063	391	Human Computer Interaction	1370	415	0.0806	694
+2	431 N	0.9079	Inan	boxing	912	0.2539	752	0.7771	531	Games and Playable Media	53	1521	0.4986	1282
+1	1732 N	1.0482	Reilly	baseball, motor sports	1190	-0.2185	1175	0.7771	666	Applied Mathematics	804	1004	0.0893	-75
+2	121 N	0.9278	Tony	golf, football	74	0.5437	1815	0.9222	1405	Computer Science	136	621	1.0389	813
+2	481 N	0.9641	Inan	boxing, football	383	0.361	709	0.4561	-421	Data Science	252	488	0.5894	1315
+2	-48 N	0.3699	Michael	football, boxing	718	0.3978	1377	0.8265	1127	Computer Science	144	337	0.6852	1092
+3	1074 N	1.0224	Andrew	soccer	258	0.8702	1128	0.6052	160	Bioinformatics	806	289	0.941	46
+1	1299 N	-0.2219	Reilly	motor sports, baseball	464	0.2202	236	0.4422	537	Human Computer Interaction	515	834	1.8297	-836
+0	1378 N	-0.4487	Vani	badminton, ice hockey, volleyball	659	0.3452	83	1.633	1293	Biotechnology	-233	552	0.5849	383
+1	1331 N	0.3819	Tony	baseball, motor sports	32	0.833	688	0.6429	344	Applied Mathematics	423	?	1.9198	-16
+2	231 N	0.6137	Inan	golf, boxing	1040	-0.4822	395	1.0279	1280	Computational Media	907	993	0.659	477
+0	1620 N	0.4626	Tony	badminton, volleyball, track & field	61	0.4795	528	1.718	698	Biotechnology	539	115	0.0114	1098
+1	1097 N	-0.1792	Eriq	motor sports, basketball	804	0.7732	161	1.3494	733	Applied Mathematics	904	869	1.3057	419
+3	1189 N	1.3729	Fabrice	soccer	345	0.963	798	0.5384	523	Computer Game Design	550	462	0.9842	694
+3	939 N	-0.1938	Andrew	basketball, baseball	18	0.5086	540	0.4883	258	Computer Game Design	336	1373	1.0327	1173
+0	94 N	0.529	Vani	volleyball	-409	0.6686	875	1.145	1291	Computer Game Design	796	411	-0.4647	1304
+0	1200 N	0.8242	Chris	golf	-180	0.2707	220	1.5343	989	Computer Engineering	253	664	0.2213	123
+2	-72 N	0.9457	Michael	golf	1537	0.8461	357	1.1929	568	Technology and Information Management	604	685	0.8999	642
+2	878 N	0.4984	Michael	football, golf	1225	0.2993	776	0.7176	41	Technology and Information Management	-413	616	0.9551	360
+0	64 N	1.5453	Tony	running	45	0.7836	725	1.4078	969	Robotics Engineering	686	767	0.015	1280
+2	-638 N	0.9169	Michael	BOXING, GOLF	1024	0.5401	1813	0.6369	898	Computer Game Design	228	694	0.4726	734
+3	587 N	0.9875	Fabrice	tennis	423	0.2266	1163	-0.0112	-109	Computer Game Design	1119	1200	1.3949	990
+2	-296 N	0.9613	Inan	football	1118	0.8447	381	0.9804	638	Technology and Information Management	329	729	1.1564	-82
+0	1101 N	1.0809	Sam	track & field, badminton, volleyball	-679	0.4387	496	1.1566	602	Natural Language Processing	351	122	0.6646	744
+0	574 N	0.776	Vani	volleyball, running	409	0.7787	596	1.3335	612	N/A	827	344	0.0434	882
+1	874 N	0.3765	Eriq	baseball, motor sports	421	0.1091	163	0.7037	352	Applied Mathematics	335	1284	0.9018	335
+3	506 N	0.9489	Fabrice	tennis	393	0.4011	323	1.0407	818	Bioinformatics	945	676	0.2443	1542
+2	-571 N	0.5816	Michael	golf, football	2146	0.9902	1824	0.9764	1088	Computer Science	387	486	0.648	-265
+0	567 N	1.7264	Eriq	badminton, volleyball, ice hockey, running	-103	1.012	85	1.1092	1459	Electrical Engineering	168	781	-0.499	562
+1	669 N	-0.0805	Eriq	basketball	257	0.5488	-69	1.4731	-125	Bioengineering	944	986	0.5462	-195
+0	581 N	1.5691	Vani	basketball, baseball	331	1.0929	1075	0.6255	1116	Biotechnology	842	-238	0.7327	2114
+3	852 N	0.8979	Chris	tennis	239	0.5451	722	1.0947	1169	Computer Game Design	748	676	1.4094	857
+2	-116 N	0.6415	inan	boxing	461	0.2036	1453	0.7118	452	Computer Science	239	817	0.4271	-10
+1	1368 N	0.5147	Eriq	motor sports	1164	-0.1877	719	1.2229	461	Applied Mathematics	652	306	0.766	133
+3	920 N	0.4916	Fabrice	tennis	682	1.0917	1011	1.2669	713	Computer Game Design	222	360	1.7248	1187
+3	1352 N	0.6531	Andrew	baseball	773	0.7163	674	0.2453	-555	Bioinformatics	257	835	0.5771	868
+3	-150 N	0.3494	Andrew	tennis	932	1.3521	697	1.4871	7	Computer Game Design	335	412	1.4806	289
+0	1143 N	0.3221	Vani	badminton, track & field, volleyball, ice hockey	248	0.8728	489	0.9702	912	Statistics	1368	-118	0.8375	1444
+0	1361 N	0.6666	Vani	running, ice hockey, track & field	668	1.3609	1781	1.0458	58	Biotechnology	582	728	0.8341	753
+2	51 N	1.145	Inan	boxing	325	1.1082	1208	1.4834	836	Computational Media	-183	1036	1.094	1161
+2	395 N	1.0656	Michael	boxing, football	529	0.7676	314	1.6523	742	Computer Science	-725	484	1.0291	591
+3	1221 N	1.7936	Fabrice	soccer	504	1.4012	283	0.6045	-405	Computer Game Design	212	560	0.69	437
+3	578 N	0.5304	Fabrice	badminton, track & field, volleyball	627	0.5622	651	0.1953	-262	Computer Game Design	529	964	0.8268	974
+3	251 N	0.6606	Fabrice	soccer	-250	0.5031	1284	1.0869	-24	Bioinformatics	856	645	0.6849	1356
+2	358 N	1.0785	Inan	boxing	1329	1.5344	1103	0.6846	735	Computer Science	-93	813	0.7678	875
+0	789 N	1.2226	Chris	track & field, ice hockey	854	0.1641	1307	1.0313	1035	Natural Language Processing	1658	4	0.794	612
+3	-232 N	0.8555	Fabrice	soccer	605	0.7751	349	0.3092	-217	Computer Game Design	432	914	0.7549	258
+0	1402 N	0.7156	Chris	running, track & field, volleyball	180	0.0815	1739	1.4263	310	Robotics Engineering	1280	83	0.159	1076
+1	1498 N	0.5611	Tony	basketball, motor sports	493	-0.0055	681	1.0769	301	Applied Mathematics	1306	689	1.1994	-338
+0	641 N	0.5935	vani	track & field	13	0.681	1450	0.8856	1845	Statistics	1209	1364	1.1096	576
+0	899 N	0.0106	Chris	ICE HOCKEY	92	0.067	-36	1.0879	1498	Natural Language Processing	576	44	-0.1269	944
+1	-28 N	0.076	Tony	motor sports	73	0.5466	237	0.4615	490	Bioengineering	750	521	1.0716	-244
+2	190 N	1.725	Inan	golf	701	0.7052	1264	0.5983	902	Computational Media	-74	582	1.4421	774
+0	1295 N	0.4953	Sam	ice hockey	32	0.0175	-73	0.8577	1414	Computer Engineering	1316	697	0.7851	N/A
+0	1046 N	0.8004	Sam	soccer	-338	0.5506	800	0.5908	1097	Biotechnology	464	790	0.6257	954
+1	1453 N	0.4734	Reilly	baseball, motor sports	1267	0.1328	420	0.6131	90	Applied Mathematics	558	926	0.5811	79
+2	-204 N	1.1236	Sam	soccer	616	0.2933	921	0.4634	1166	Data Science	90	646	1.4242	-242
+3	961 N	0.6492	Fabrice	soccer	794	0.5283	273	-0.048	-82	Bioinformatics	442	909	1.6001	897
+1	929 N	0.5358	Reilly	baseball, motor sports	359	0.1	305	0.8857	122	Applied Mathematics	461	712	1.1502	283
+2	725 N	1.7893	Michael	golf	614	0.445	679	0.8844	1197	Computer Science	326	396	1.4352	614
+1	1477 N		Lise	basketball, baseball	947	0.4509	-522	0.6563	137	Bioengineering	880	306	0.3675	143
+0	1372 N	1.0437	Michael	volleyball, running	324	1.3511	1006	1.5704	899	Electrical Engineering	1174	130	-0.3943	786
+0	1544 N	0.7112	Vani	football, golf	-199	0.7476	1336	1.1043	1849	Computer Engineering	963	870	0.4856	1139
+2	495 N	0.313	Inan	golf, football	852	0.0019	2052	0.9031	772	Computer Science	401	799	0.2729	905
+2	-222 N	0.913	Inan	boxing	1430	0.4916	750	0.6906	405	Computational Media	404	709	0.9809	835
+3	564 N	0.4495	Andrew	tennis	-267	0.243	852	0.5151	515	Computer Game Design	5	702	0.7959	1233
+0	432 N	0.7633	Chris	ice hockey, volleyball	170	0.9138	662	0.9191	626	Biotechnology	1439	-300	0.1367	1653
+0	1303 N	1.1092	vANI	badminton	289	0.7037	1421	1.4584	566	Statistics	1663	270	-0.7315	1519
+3	652 N	-0.2731	Fabrice	soccer	458	0.5244	697	0.5577	334	Computer Game Design	421	1439	1.8511	1384
+3	1197 N	0.5072	Fabrice	soccer	436	0.5112	814	0.1269	69	Bioinformatics	541	1352	0.8566	531
+2	-405 N	0.2449	Michael	golf	1256	0.1402	1136	0.5355	603	Data Science	22	1102	0.988	1054
+2	-35 N	0.956	Inan	football	1016	0.115	1117	1.8063	458	Data Science	122	410	0.5362	1412
+1	283 N	0.5065	Reilly	soccer	708	0.937	41	NULL	179	Human Computer Interaction	866	738	0.3902	827
+0	1556 N	0.7414	Vani	running	15	1.392	903	0.9752	1821	Robotics Engineering	567	-35	0.0277	1157
+2	394 N	0.5366	Michael	tennis	783	0.9902	1228	1.4309	532	Data Science	13	464	0.8761	424
+1	800 N	0.9163	Eriq	boxing, golf	255	0.4734	-172	0.655	1072	Bioengineering	918	727	0.8397	450
+1	866 N	-0.2743	Reilly	motor sports, baseball	464	-0.3849	233	0.8607	842	Human Computer Interaction	551	658	0.6638	47
+3	668 N	0.7768	Andrew	volleyball, badminton	-181	0.5007	193	0.8916	-567	Bioinformatics	772	1079	1.0037	1456
+3	795 N	0.7132	Fabrice	TENNIS	448	0.6065	958	0.428	659	Bioinformatics	324	1130	0.2607	378
+2	282 N	1.3807	Michael	golf, football	439	1.0962	214	0.5989	391	Games and Playable Media	151	857	0.7749	698
+0	1024 N	0.7323	Vani	ice hockey	326	0.0861	1246	0.7975	965	Computer Engineering	1252	-50	0.8327	620
+2	-128 N	0.9206	Inan	football, golf	286	0.4387	1495	1.4731	958	Games and Playable Media	506	554	0.7608	78
+1	1088 N	0.2126	Eriq	baseball, basketball	1144	0.1875	-110	1.0061	205	Bioengineering	28	828	1.0133	-388
+1	689 N	0.2692	Sam	golf	673	-0.6588	171	0.5909	276	Human Computer Interaction	1175	404	0.6628	1107
+3	1142 N	0.3005	Fabrice	tennis	531	1.0156	518	-0.1184	-191	Bioinformatics	492	NULL	1.5373	782
+1	600 N	-0.2327	Lise	motor sports, baseball	-221	-0.4683	524	0.6845	480	Applied Mathematics	1315	964	1.1497	232
+1	1377 N	1.2826	Reilly	motor sports	1010	0.5673	624	0.8081	-76	Applied Mathematics	897	278	1.2549	120
+1	411 N	0.4319	Tony	basketball, baseball	919	0.4242	848	-0.1363	455	Bioengineering	880	157	1.2455	127
+3	1132 N	0.3501	Inan	track & field, badminton, running, volleyball	78	0.7071	1582	-0.0878	477	Computer Game Design	1031	1193	0.7382	1497
+0	1478 N	0.9258	Sam	badminton	1127	0.5524	927	0.7471	933	Bioengineering	833	739	-0.1569	1213
+0	463 N	1.1703	Sam	None	586	0.3661	1099	0.7656	1131	Biotechnology	290	210	-0.0275	1015
+3	776 N	1.0003	fabrice	Soccer	135	1.1721	758	0.6151	-311	Computer Game Design	-286	499	0.3951	543
+2	973 N	0.867	Inan	football, boxing	1688	0.4967	1032	0.957	517	Computer Science	324	672	?	671
+0	1493 N	0.4191	SAM	track & field	-22	0.7222	1702	1.0176	1271	Robotics Engineering	901	255	0.0488	816
+2	239 N	1.456	Michael	golf, boxing	909	0.0395	1180	0.7462	1562	Computer Science	583	602	0.844	797
+0	1105 N	1.454	Chris	badminton, ice hockey, track & field	-135	0.5547	-191	0.492	894	Electrical Engineering	1239	194	1.2258	583
+2	905 N	0.8228	Inan	golf	1042	0.7746	840	0.9602	729	Data Science	388	524	0.6826	876
+1	1085 N	0.3031	Reilly	basketball, baseball	1518	0.3071	276	0.8078	370	Applied Mathematics	473	486	1.0457	282
+3	1374 N	0.6572	Chris	soccer	147	0.7347	1286	0.6027	372	Bioinformatics	822	845	0.8022	566
+1	1750 N	0.3824	Reilly	basketball	1522	0.81	-18	1.0564	-13	Human Computer Interaction	495	1148	1.2921	-358
+1	280 N	0.1136	Lise	motor sports	782	0.3927	659	0.3113	288	Human Computer Interaction	1129	788	1.2474	633
+1	801 N	-0.7457	Tony	tennis	36	0.8812	-375	0.389	261	Human Computer Interaction	641	1028	1.0661	-493
+0	631 N	0.8367	Chris	badminton, running	-274	0.7324	175	0.9871	736	Statistics	779	461	-0.0413	1077
+1	1601 N	-0.4453	Tony	soccer	929	0.5286	516	1.6637	177	Human Computer Interaction	?	572	-0.3729	590
+3	206 N	0.0566	Andrew	soccer	-111	1.0337	931	1.0052	116	Bioinformatics	1126	191	0.0672	1770
+2	-284 N	1.4505	Inan	golf	1242	0.7829	902	1.1121	201	Games and Playable Media	-214	799	0.5817	-100
+1	914 N	0.4964	Reilly	ice hockey, track & field, badminton, running	938	0.3409	525	0.8828	590	Human Computer Interaction	341	1116	0.4217	57
+0	1527 N	0.8464	vANI	golf, football	652	0.4089	-84	1.66	1434	Computer Engineering	469	804	0.7014	624
+1	504 N	0.5683	Tony	basketball	1627	-0.2249	474	0.5069	-20	Human Computer Interaction	987	1652	0.5288	678
+2	697 N	0.6714	Michael	boxing, golf	1000	1.4252	522	1.311	1301	Computational Media	-5	432	0.9523	664
+1	1402 N	-0.189	Eriq	basketball, baseball	120	-0.0644	170	0.5461	1001	Bioengineering	1554	489	0.4737	502
+0	736 N	0.6049	Vani	volleyball, running, ice hockey, badminton	313	0.9268	1653	0.8429	762	Statistics	437	422	0.3191	537
+0	1075 N	0.7199	Chris	basketball	-757	0.9164	949	1.047	1374	Electrical Engineering	1172	180	-0.4277	461
+3	201 N	0.4188	Fabrice	soccer	132	0.7889	895	0.552	-62	Computer Game Design	269	802	1.4504	1182
+2	1062 N	1.6761	Michael	boxing, football	885	0.5295	1396	0.9777	770	Data Science	451	948	0.6349	616
+2	-143 N	1.3115	Inan	soccer	181	0.852	921	1.0537	862	Technology and Information Management	1436	1287	1.4807	904
+1	954 N	-0.2241	Lise	football, golf	902	0.2234	-255	0.8292	-253	Bioengineering	1035	764	1.117	-162
+0	764 N	1.1027	Chris	running	-132	0.5553	340	0.1585	908	Statistics	681	783	0.9881	573
+3	479 N	0.1411	Andrew	soccer	459	-0.041	1845	1.2285	-11	Bioinformatics	654	887	0.8273	951
+2	395 N	0.5997	Michael	golf	1163	0.8922	518	1.6939	737	Games and Playable Media	262	688	0.7669	927
+3	1324 N	0.7624	Fabrice	badminton	268	1.9259	1461	0.2039	-101	Computer Game Design	799	930	1.0328	1164
+2	-157 N	1.2897	Inan	golf, boxing	1202	0.5082	611	0.9436	878	Data Science	27	631	0.9465	-207
+3	184 N	1.1215	Fabrice	soccer	188	1.1237	-257	-0.4622	-877	Bioinformatics	332	832	0.7405	1536
+0	1889 N	1.1758	Fabrice	running, badminton, track & field, ice hockey	-201	0.1476	402	1.115	1078	Computer Engineering	752	474	-0.0834	954
+3	1467 N	1.0066	Andrew	tennis	521	0.3975	1226	0.6968	280	Data Science	933	940	0.98	1081
+3	707 N	0.739	Andrew	tennis	-477	1.5611	1181	0.6142	-197	Computer Game Design	773	467	1.3483	1077
+3	N/A	1.7971	Andrew	tennis	290	0.7752	1499	-0.0218	-189	Bioinformatics	270	515	1.2906	677
+1	899 N	-0.2502	Michael	running, volleyball	255	-0.0178	-145	-0.077	347	Applied Mathematics	1673	972	1.4405	628
+3	819 N	0.3492	Fabrice	tennis	687	-0.1058	1435	0.0352	90	Bioinformatics	846	555	0.0249	846
+3	1274 N	0.4301	Andrew	basketball	557	1.1626	1182	0.1679	507	Computer Game Design	-212	896	0.8055	309
+3	694 N	0.735	Andrew	soccer	894	1.2704	633	0.8829	-46	Bioinformatics	371	696	1.0371	2373
+3	1568 N	0.7244	Fabrice	soccer	684	0.6869	872	0.5621	219	bioinformatics	1430	577	1.7328	1151
+2	-328 N	0.6077	Inan	motor sports	784	0.5336	1468	0.7449	538	Technology and Information Management	-190	825	1.2399	1071
+1	269 N	-0.2563	Michael	golf, football	1363	0.8389	526	0.5669	478	Applied Mathematics	1408	239	0.2833	-87
+3	1050 N	0.6119	Fabrice	soccer	589	0.9541	1338	0.036	-526	Computer Game Design	52	542	1.8357	182
+0	1350 N	1.5822	Sam	volleyball	-209	-0.0653	25	0.9103	1048	Natural Language Processing	612	-39	0.1323	1267
+0	1326 N	0.9852	Sam	ice hockey, track & field, badminton, running	300	0.6958	831	1.4118	1110	Robotics Engineering	530	693	0.211	1294
+0	662 N	0.4492	Chris	badminton, running	380	0.0436	1167	0.8588	1068	Statistics	1001	477	-0.8875	951
+3	640 N	0.7996	Fabrice	tennis	-71	1.1089	846	0.3636	425	Computer Game Design	566	1440	1.5987	755
+3	1037 N	0.6328	Andrew	soccer	615	0.7741	1555	0.4418	231	Bioinformatics		627	0.7039	1176
+3	1044 N	0.0943	Fabrice	Tennis	313	1.1931	1206	-1.251	206	Bioinformatics	636	682	0.2994	690
+2	276 N	0.9897	Inan	volleyball, running, ice hockey, badminton	1273	0.4379	1103	0.0702	965	Technology and Information Management	49	888	1.4863	604
+2	593 N	1.1186	Inan	football	1331	None	886	1.267	1176	Technology and Information Management	384	927	1.1772	767
+2	483 N	1.572	Michael	boxing, football	691	-0.1337	777	1.3822	808	Computer Science	441	?	0.8476	568
+0	408 N	0.6261	Vani	badminton, track & field, running	-198	-0.0165	570	0.6156	1210	Robotics Engineering	735	126	0.1589	1157
+1	1231 N	0.2871	Reilly	basketball, baseball	1025	-0.7184	-188	1.2846	1343	Human Computer Interaction	1024	548	1.9029	125
+0	280 N	1.4958	Chris	track & field, ice hockey	58	0.4971	302	0.8239	979	Natural Language Processing	1386	295	-0.0361	260
+3	383 N	0.2846	Andrew	soccer	-181	0.728	273	NULL	633	Computer Game Design	564	808	1.7252	89
+3	343 N	0.8973	Fabrice	tennis	548	1.1498	1368	-0.1881	358	bioinformatics	1075	348	1.0623	633
+2	232 N	1.1689	Michael	golf	241	1.4327	493	1.4184	939	Technology and Information Management	-40	441	0.7662	683
+0	586 N	1.2133	Sam	track & field, ice hockey	-15	0.1443	323	2.1125	1302	Statistics	587	457	0.3486	1839
+2	-98 N	0.9048	Inan	golf, boxing	?	0.6169	591	1.1822	300	Technology and Information Management	231	785	1.3646	493
+1	737 N	-0.1161	Reilly	motor sports	951	-0.7317	247	1.5914	1460	Human Computer Interaction	677	513	0.5538	-90
+1	826 N	-0.0483	Lise	motor sports, baseball	590	0.5215	654	0.557	532	Human Computer Interaction	700	1048	1.5585	378
+2	721 N	-0.5458	Michael	golf, boxing	1303	0.9158	908	1.3145	1082	Data Science	392	1199	0.9085	920
+0	541 N	0.4046	Sam	badminton, running	149	0.3019	-120	0.6332	1059	Computer Game Design	1202	523	0.8309	919
+2	658 N	0.9476	Andrew	tennis	1357	0.3789	689	0.9053	720	Games and Playable Media	208	825	1.1205	595
+2	442 N	1.7324	Michael	motor sports	1665	0.2045	-11	1.1532	18	Data Science	591	389	0.0982	422
+3	1472 N	0.088	Andrew	soccer	197	-0.0189	930	1.0641	31	Computer Game Design	112	295	0.9388	1364
+2	1093 N	0.722	Inan	boxing	901	0.4472	1478	1.3537	890	Computational Media	218	962	0.7082	385
+0	895 N	0.3472	Vani	volleyball	-577	0.6908	832	1.2551	414	Biotechnology	940	178	0.1336	722
+1	875 N	1.0888	Reilly	MOTOR SPORTS	265	0.14	556	0.915	1180	Human Computer Interaction	85	390	0.3148	456
+1	1502 N	0.7582	Inan	basketball	452	-0.7715	422	0.9253	373	Applied Mathematics	986	955	0.7801	130
+0	1214 N	0.8609	Sam	ice hockey, running, track & field	-232	0.7404	498	0.9527	492	Biotechnology	542	165	0.261	1029
+1	?	0.4014	Eriq	basketball, motor sports	359	0.0264	456	0.6635	574	Bioengineering	1114	1125	0.7862	566
+2	-384 N	1.22	Michael	golf, football	910	0.4569	343	0.8	476	Games and Playable Media	443	691	-0.1327	511
+2	1157 N	1.7457	Michael	boxing, golf	799	0.0203	1127	1.0062	1008	Technology and Information Management	490	124	0.8422	1266
+1	1767 N	0.2254	Reilly	basketball	1159	0.2608	446	0.2082	259	Bioengineering	1081	1284	1.017	305
+1	1146 N	0.0294	n/a	basketball	1352	0.5407	436	1.0233	601	Applied Mathematics	1074	739	1.715	198
+3	611 N	0.4283	Fabrice	tennis	881	1.282	1821	0.8767	None	Computer Game Design	713	460	1.3677	982
+0	1412 N	0.6563	Chris	running, track & field, volleyball	484	0.6405	1181	0.7007	898	Natural Language Processing	1123	281	0.3808	771
+1	491 N	0.4706	Tony	baseball, basketball	820	0.6653	527	0.4816	631	Bioengineering	19	1167	0.5383	1021
+2	310 N	1.0192	Inan		867	1.012	746	2.4	392	Games and Playable Media	649	724	0.6057	-192
+3	589 N	0.7461	Chris	soccer	1681	0.9063	888	0.326	411	COMPUTER GAME DESIGN	929	935	0.6341	1965
+3	n/a	1.6035	Andrew	soccer	-155	0.7678	325	0.5814	-246	Bioinformatics	875	621	1.0649	N/A
+3	776 N	0.5176	Fabrice	tennis	733	0.4764	1241	0.379	-190	Bioinformatics	930	615	0.8144	980
+0	1367 N	0.5946	Chris	volleyball, running, badminton	166	1.0988	35	0.89	153	Electrical Engineering	847	231	0.5013	852
+2	454 N	1.2162	Inan	golf, boxing	891	0.8002	1298	0.7894	907	Games and Playable Media	113	772	0.9602	831
+1	1214 N	0.138	Tony	motor sports, baseball	294	0.5827	-180	0.5505	1445	Human Computer Interaction	949	629	0.7588	104
+2	854 N	1.3528	Fabrice	golf, football	396	0.1767	994	1.2053	378	Technology and Information Management	182	N/A	0.6107	228
+0	1071 N	0.8961	Sam	running, ice hockey, badminton	-551	0.2719	930	1.1066	1527	Biotechnology	1546	-165	0.0235	623
+3	765 N	0.7236	Fabrice	soccer	121	1.1852	1184	0.8917	198	Bioinformatics	1210	849	1.1844	714
+2	711 N	0.945	Michael	boxing, golf	195	0.9788	227	0.4794	596	COMPUTER GAME DESIGN	290	N/A	0.9319	489
+3	909 N	1.4084	Andrew	tennis	-73	0.8573	1565	0.4426	1104	Bioinformatics	331	206	?	352
+0	163 N	0.9083	Vani	ice hockey, running, track & field	211	0.4539	486	0.8264	1384	Biotechnology	1241	737	0.9155	896
+3	717 N	0.3042	Andrew	soccer	439	1.1413	842	-0.0804	897	Computer Game Design	1132	825	1.6369	869
+2	653 N	1.6847	Michael	boxing	692	0.5414	1076	1.0294	79	Games and Playable Media	38	600	0.892	176
+0	1400 N	0.8159	Sam	running, ice hockey	-317	0.5522	903	0.1477	1017	ROBOTICS ENGINEERING	311	300	0.8151	150
+0	1082 N	0.8872	Sam	ice hockey	-301	0.5192	1332	1.3404	578	Statistics	461	-116	0.889	1216
+1	1197 N	-0.0454	Reilly	baseball	237	1.131	-261	0.5193	-101	Human Computer Interaction	-218	1068	1.0758	139
+3	1045 N	0.5286	Andrew	tennis	625	1.4704	620	1.2845	-544	Bioinformatics	363	722	1.5738	415
+3	579 N	0.5301	Andrew	soccer	135	0.7415	1499	0.7912	320	COMPUTER GAME DESIGN	428	1329	1.1225	452
+0	1201 N	1.1434	Chris	running, track & field, volleyball	-281	-0.5338	1157	1.3679	1210	Statistics	562	267	-0.5118	375
+3	631 N	0.1854	Fabrice	soccer	-106	-0.1926	313	0.5772	544	Computer Game Design	991	637	0.4527	994
+0	1629 N	0.4216	Sam	badminton	-157	1.1514	1357	1.1288	1334	Statistics	999	9	-0.2618	1274
+2	120 N	1.2229	Michael	football	959	0.6777	1556	0.7112	209	Computational Media	97	204	1.1012	522
+2	329 N	0.9346	Inan	boxing, football	757	0.6671	1248	1.6929	-20	Robotics Engineering	156	450	0.5233	1313
+0	940 N	0.6964	Sam	volleyball	571	0.2309	1001	1.395	943	Robotics Engineering	896	228	1.0988	1323
+1	1634 N	-0.1627	Reilly	motor sports	140	0.6951	467	1.3316	768	Bioinformatics	1116	532	0.4331	761
+3	52 N	0.2192	Fabrice	soccer	-238	NULL	784	0.6457	344	Bioinformatics	729	753	0.7099	1350
+3	662 N	-0.0039	Andrew	tennis	-33	1.3923	1506	1.1522	534	COMPUTER GAME DESIGN	409	806	0.4618	1081
+0	435 N	0.9053	Sam	track & field, ice hockey	264	0.0544	206	1.0124	712	Natural Language Processing	802	432	0.3503	990
+2	160 N	1.2195	Inan	football, boxing	743	0.4116	1018	0.773	1191	Computational Media	-471	430	0.7485	1274
+0	680 N	1.4878	Chris	running, badminton, track & field	380	0.4649	1004	1.0103	1269	Robotics Engineering	1115	140	0.7041	1185
+0	1050 N	1.4947	Lise	volleyball, badminton, running	316	0.5091	1019	0.8621	1515	Bioinformatics	1115	674	0.4034	587
+0	1496 N	0.2357	CHRIS	running, ice hockey, track & field	115	0.2295	833	0.6111	881	Statistics	357	-2	0.902	944
+2	-214 N	0.8055	Inan	football	1275	0.0906	1773	0.5883	1273	Applied Mathematics	78	92	0.5237	919
+3	794 N	0.6755	Andrew	soccer	46	1.3844	1041	0.2946	525	Bioinformatics	-195	813	0.8669	695
+1	814 N	0.6857	Lise	NULL	941	0.1513	556	0.0111	348	Bioengineering	142	515	1.1843	-83
+2	1421 N	0.9599	Inan	golf	2016	0.8199	473	0.8009	878	Computer Science	174	784	1.0208	6
+2	754 N	1.2949	Michael	football	541	1.2329	1176	0.6102	941	Computer Science	633	702	0.5248	83
+0	846 N	0.4387	VANI	running, badminton, ice hockey, track & field	383	0.6642	-520	1.0801	1405	Natural Language Processing	504	261	0.467	977
+0	1685 N	1.0336	Inan	ice hockey, badminton	413	0.1721	NULL	1.4428	1385	Statistics	903	376	0.7201	909
+2	140 N	0.8733	Michael	boxing	1251	-0.0023	317	1.0508	294	Games and Playable Media	-455	-92	0.866	371
+3	108 N	1.0391	Fabrice	motor sports, baseball	653	0.4968	1460	0.0025	276	Computer Game Design	925	808	1.1735	1449
+2	408 N	1.4229	Michael	ice hockey, volleyball, badminton	1106	0.4572	664	1.1474	135	Games and Playable Media	174	1019	1.4245	188
+3	-84 N	1.7662	Andrew	tennis	-207	0.7393	657	0.2276	516	Computer Game Design	907	184	0.7074	1192
+0	1668 N	1.1808	Chris	ice hockey, track & field	29	0.1816	652	1.1796	630	Statistics	954	214	0.2308	666
+0	1655 N	1.0377	N/A	volleyball, track & field, ice hockey	231	0.3141	1473	0.5635	822	Robotics Engineering	-37	36	0.3452	708
+1	753 N	-0.0919	Eriq	baseball, basketball	355	0.7306	292	1.047	1196	Human Computer Interaction	856	1267	1.1548	863
+3	1284 N	0.0765	Andrew	soccer	220	0.469	1478	0.3211	64	Computer Game Design	264	762	0.6796	748
+3	664 N	0.5505	Andrew	track & field	617	0.8154	439	0.488	164	Computer Game Design	132	974	1.3052	301
+2	682 N	1.4721	Michael	football, golf	1125	-0.1418	1149	0.989	1355	Games and Playable Media	-363	559	1.2982	834
+1	959 N	0.1715	Tony	BASKETBALL, MOTOR SPORTS	-84	0.0202	-648	1.5479	881	Applied Mathematics	720	608	1.1818	790
+0	577 N	1.0898	Chris	track & field, ice hockey, running, badminton	994	0.5394	1229	1.5988	1235	Biotechnology	806	21	0.2692	1323
+2	534 N	1.2261	Michael	golf	161	0.6356	965	1.6523	464	Computer Science	-772	546	0.9564	38
+0	992 N	0.3991	Vani	golf, boxing	-452	0.1315	-103	0.8837	1045	Statistics	925	439	0.2501	866
+2	531 N	1.9214	Michael	golf, football	1003	0.5835	1312	-0.1824	470	Computational Media	530	239	-0.0951	718
+2	304 N	1.7526	Inan	BOXING, GOLF	1199	1.3791	884	0.6192	354	Computational Media	179	916	0.85	816
+2	353 N	0.5741	Eriq	football, golf	1561	0.8396	1195	0.1583	363	Data Science	435	453	0.7322	918
+0	79 N	0.9804	Sam	golf, football	-133	1.2691	1638	1.15	1073	Natural Language Processing	1115	397	0.3937	179
+3	293 N	0.8756	aNDREW	tennis	387	0.9521	607	1.1302	617	Bioinformatics	601	966	0.2936	954
+2	466 N	0.7077	Michael	boxing	885	0.112	-297	1.3113	373	Computer Science	-709	688	1.5784	459
+0	806 N	0.6842	Chris	badminton, ice hockey, volleyball, running	157	0.8244	740	1.2771	1356	N/A	808	332	0.0463	465
+3	1008 N	0.8839	Fabrice	tennis	-59	0.536	191	0.1766	228	Bioinformatics	None	758	-0.2773	230
+1	688 N	1.1599	Tony	running, badminton	478	0.3759	-27	-0.3029	433	Bioengineering	366	1067	0.3324	7
+2	-278 N	0.886	Inan	ice hockey	1516	0.8646	999	0.4564	155	Data Science	416	819	0.4047	434
+0	557 N	1.4157	Sam	track & field, volleyball, ice hockey	171	0.3567	621	1.1047	303	Robotics Engineering	866	62	-0.5025	486
+2	-289 N	1.5301	Inan	NULL	1370	0.6575	1248	0.5136	608	Electrical Engineering	420	220	1.004	547
+3	772 N	0.6307	Fabrice	soccer	241	0.2857	807	0.635	283	Computer Game Design	723	241	1.1075	274
+0	870 N	0.8939	Sam	baseball	-815	0.8654	1404	0.6303	1029	Statistics	853	444	-0.0767	1454
+2	692 N	1.928	Michael	boxing, golf	1350	0.7196	1418	0.248	611	Data Science	-153	983	1.0357	981
+3	1083 N	0.6848	Fabrice	tennis	713	0.764	1123	0.301	-541	Bioinformatics	840	765	1.3822	-97
+3	515 N	?	Andrew	tennis	573	0.5843	?	1.0097	-86	Computer Game Design	714	835	1.0681	211
+0	?	0.4114	Vani	track & field, running	36	0.7901	1024	0.881	1246	Robotics Engineering	392	279	-0.5239	277
+3	818 N	0.123	Fabrice	tennis	68	0.9047	1059	0.1802	-270	Bioinformatics	1310	519	0.5382	907
+3	1241 N	0.5032	Andrew	soccer	-158	0.241	799	0.3335	-490	Computer Game Design	430	1004	0.9474	-257
+2	555 N	0.6804	Michael	badminton, ice hockey, track & field	802	0.6876	934	0.9681	753	Computational Media	95	511	1.2838	1079
+2	650 N	N/A	Michael	tennis	308	0.5404	752	1.034	1886	Computational Media	-402	646	0.7704	727
+1	176 N	-0.4825	Reilly	basketball	879	-0.1347	442	0.1515	-114	Bioinformatics	811	1296	0.6267	880
+0	204 N	0.6473	Chris	soccer	158	1.0204	475	1.9414	935	Biotechnology	1774	587	1.6031	1161
+0	1501 N	0.0475	Vani	ice hockey, running, badminton	269	0.6709	212	2.1535	1016	Biotechnology	824	468	0.5997	926
+3	973 N	0.9579	Andrew	tennis	750	-0.0243	1428	0.9769	-377	Computer Game Design	693	458	1.1887	1237
+0	1948 N	1.2044	Vani	badminton, track & field, running	252	0.8096	549	1.2474	643	Statistics	641	-95	0.4434	573
+2	-384 N	1.7594	Michael	boxing	1215	0.245	1160	0.4763	107	Games and Playable Media	-680	926	1.2149	992
+3	858 N	0.583	Fabrice	soccer	-284	0.4176	892	0.0877	-16	Computer Game Design	-49	383	0.4114	1192
+0	1563 N	0.3832	Vani	None	-408	0.2117	804	1.36	535	Electrical Engineering	991	-91	0.625	227
+3	996 N	1.113	Michael	soccer	443	1.4071	494	0.0944	695	Bioengineering		737	1.0758	1552
+3	284 N	1.094	Eriq	soccer	305	0.3332	1227	-0.2924	675	Computer Game Design	472	417	0.0197	248
+3	571 N	0.435	Andrew	tennis	989	1.1391	864	-0.2405	752	Bioinformatics	-36	182	0.4238	1601
+0	1370 N	0.528	Chris	badminton	-89	0.1287	560	0.657	1309	Robotics Engineering	352	826	0.0523	349
+0	777 N	1.1238	Vani	running, ice hockey	351	0.0797	713	1.1678	1174	Electrical Engineering	947	1120	1.5319	1522
+0	693 N	1.802	Chris	badminton, running	364	0.2297	336	0.6438	1676	Technology and Information Management	1064	355	0.3142	751
+0	1302 N	1.0104	Sam	volleyball	454	-0.4111	940	1.0481	1403	Natural Language Processing	997	124	0.0771	1475
+1	1085 N	0.1852	Eriq	basketball, motor sports	863	0.4691	248	1.1471	1054	Bioengineering	562	1281	1.152	121
+3	389 N	0.151	Fabrice	tennis	-229	1.1126	1496	1.1264	-91	bioinformatics	913	326	1.1383	-268
+3	744 N	0.2237	Vani	soccer	362	1.2861	1227	1.016	275	Computer Game Design	265	919	1.0904	1463
+2	350 N	1.0322	fabrice	golf	231	0.4394	1401	0.3878	602	Technology and Information Management	244	503	0.5113	882
+0	1276 N	0.9127	Vani	running	637	0.9392	201	0.7831	1436	Biotechnology	1041	357	0.2129	810
+2	1072 N	1.1316	Michael	golf, football	314	0.5063	823	1.6305	1043	Computer Science	-36	1129	1.0875	1339
+3	146 N	0.3984	Andrew	soccer	647	0.3443	803	1.295	-18	Computer Game Design	502	401	1.9535	830
+1	-8 N	0.0722	Eriq	basketball, baseball	793	0.5812	486	1.1714	650	Human Computer Interaction	764	1042	1.2379	613
+0	1224 N	0.2896	Vani	golf	335	0.5965	-135	1.4898	736	Statistics	502	363	0.0875	238
+0	1592 N	1.5082	Chris	badminton, ice hockey, track & field, volleyball	178	0.2835	611	1.0323	604	Technology and Information Management	991	-462	0.0142	236
+3	1383 N	0.4447	Fabrice	soccer	49	0.6474	1878	0.4684	-270	Computer Game Design	1008	434	1.5635	569
+2	327 N	0.8237	Michael	golf, football	1042	0.0072	944	1.652	728	Computational Media	515	709	0.0577	1029
+0	N/A	0.8448	Vani	soccer	301	1.3149	390	0.5477	1283	Electrical Engineering	332	-113	-0.0485	88
+3	840 N	0.7996	Andrew	tennis	397	0.9577	1405	-0.2727	816	Computer Game Design	914	735	1.8242	328
+3	486 N	0.7069	Andrew	volleyball	253	1.0445	597	0.6141	-148	Computer Game Design	774	748	0.7263	435
+2	245 N	0.5671	Michael	golf	695	1.0445	541	1.7642	1246	Computer Science	543	446	0.8376	295
+1	184 N	0.2418	Reilly	motor sports, baseball	820	0.3122	981	0.7697	128	Applied Mathematics	1026	968	1.2739	204
+1	608 N	-0.3047	Eriq	tennis	637	-0.1086	-914	0.9042	72	Bioengineering	1120	1054	1.4656	251
+2	233 N	1.2045	Inan	boxing, football	1509	0.1607	1861	1.3481	729	Computational Media	610	132	1.032	975
+0	146 N	1.1879	Vani	running, volleyball, track & field	23	0.8857	103	0.8623	887	Statistics	1390	-119	0.3265	1134
+3	1311 N	1.3513	Fabrice	soccer	-99	1.1151	1763	0.5661	-100	BIOINFORMATICS	641	467	0.3942	1597
+3	1564 N	1.112	Fabrice	tennis	-232	0.855	832	0.0423	236	Computer Game Design	370	1173	1.3207	479
+2	258 N	0.3775	inan	Football, Boxing	2118	0.507	740	0.4808	506	Data Science	380	740	0.4769	69
+2	1278 N	-0.092	Michael	football, golf	333	1.0825	195	1.0835	53	Computer Science	520	748	1.0389	801
+0	1010 N	-0.2634	Vani	running	517	0.647	523	1.6175	1175	Robotics Engineering	48	258	-0.1644	738
+0	954 N	1.1489	Sam	volleyball, badminton, running, ice hockey	292	0.0668	979	0.8185	1297	Biotechnology	933	900	0.0758	505
+1	995 N	0.1649	Reilly	motor sports	624	0.2002	421	1.113	-75	Applied Mathematics	155	722	1.4269	130
+0	338 N	0.892	Vani	ice hockey, track & field	484	0.7443	215	2.1743	557	Natural Language Processing	1172	-68	-0.5631	361
+0	1301 N	0.883	Vani	ice hockey, volleyball, badminton	915	0.9684	861	0.8748	199	Computer Engineering	655	419	0.921	492
+1	1814 N	0.0529	Eriq	motor sports, basketball	-88	-0.1018	254	0.9632	728	Human Computer Interaction	738	880	1.1974	192
+1	1097 N	0.844	Lise	basketball	598	0.649	313	0.8937	391	Human Computer Interaction	862	1110	1.2223	442
+1	1246 N	-0.0707	Eriq	basketball, motor sports	308	0.9495	1244	0.7528	-539	Bioengineering	546	681	1.6839	-276
+0	743 N	1.0986	Chris	ice hockey, badminton, track & field	-256	0.2812	1310	1.381	1453	Natural Language Processing	647	65	-0.0124	850
+0	633 N	0.2834	Vani	volleyball, track & field	-115	0.0789	1098	1.4706	1075	Biotechnology	1241	502	0.9754	571
+3	909 N	0.9259	Andrew	baseball, motor sports	672	0.375	-318	0.078	660	Computer Game Design	261	752	0.95	534
+3	1141 N	0.8413	Fabrice	soccer	354	0.9351	1064	0.9802	-214	Computer Game Design	-332	334	0.3766	491
+0	1394 N	0.8407	Chris	badminton, ice hockey, running	388	0.1572	1223	1.4083	729	Statistics	769	-49	0.6466	396
+0	1016 N	0.4179	Sam	volleyball, running, badminton	194	0.3996	726	1.2918	965	Electrical Engineering	340	200	0.8229	712
+0	1324 N	0.3726	Sam	running, badminton	124	NULL	514	0.6606	752	Computer Game Design	694	674	-0.0419	798
+1	1655 N	0.0162	Eriq	baseball	991	0.4169	-608	1.2026	911	Bioengineering	619	1067	0.91	408
+1	1112 N	0.4518	Lise	baseball	402	0.1116	-110	0.9826	200	Applied Mathematics	901	504	0.9631	389
+1	720 N	0.5739	Tony	boxing	1095	-0.0913	367	0.9948	370	Human Computer Interaction	845	831	0.4757	1152
+2	745 N	0.8571	Inan	golf, boxing	610	0.5902	1153	0.5864	574	Games and Playable Media	805	134	0.0971	382
+0	1482 N	0.7941	Chris	running	24	0.6897	627	2.2647	452	Statistics	382	383	0.1793	-80
+3	1459 N	0.0994	Andrew	Soccer	711	0.9901	1299	-0.2261	261	Bioinformatics	595	1291	1.6706	1221
+1	393 N	-0.2942	Tony	motor sports, basketball	859	-0.1118	748	0.8167	962	Human Computer Interaction	1114	820	0.7951	366
+3	1717 N	0.7688	Sam	tennis	1187	0.5763	941	0.9167	-123	Computer Game Design	304	521	1.2129	1167
+2	122 N	1.0905	Inan	football, boxing	1563	1.0126	988	0.4757	983	Data Science	628	665	0.8377	857
+2	115 N	1.2924	Michael	golf	574	1.1425	1709	1.5099	921	Computational Media	-940	760	1.1196	-46
+1	1392 N	-0.738	Tony	baseball, basketball	786	0.7442	-22	0.2084	892	Bioengineering	841	1004	0.9794	460
+2	335 N	1.2455	inan	football	871	0.1151	980	1.1239	97	Games and Playable Media	427	777	0.8579	59
+3	1050 N	0.984	Fabrice	soccer	-221	0.9985	1337	-0.6604	446	cOMPUTER gAME dESIGN	808	257	0.2183	439
+1	1167 N	-0.1047	Eriq	motor sports, baseball	606	0.3528	N/A	1.2673	656	human computer interaction	697	793	-0.0744	-116
+1	802 N	-0.0455	Reilly	basketball	907	0.894	739	0.947	729	Human Computer Interaction	598	751	0.8443	414
+1	1093 N	0.3995	Michael	motor sports	4	0.731	-314	0.563	986	Applied Mathematics	613	511	1.1375	-949
+0	1655 N	0.8568	Chris	Badminton, Ice Hockey	225	0.6341	929	0.9481	771	Natural Language Processing	278	32	1.1671	526
+2	-336 N	1.1007	Inan	FOOTBALL, GOLF	1405	0.0478	1021	0.4369	421	Games and Playable Media	-96	621	0.331	1075
+0	814 N	0.5199	chris	ice hockey, volleyball, running	-301	0.63	765	0.118	1049	Computer Engineering	1496	-463	-0.219	597
+2	94 N	1.2894	NULL	soccer	2263	0.4702	336	1.046	642	Computational Media	-385	207	0.5887	1879
+0	671 N	0.9357	Sam	track & field, volleyball, badminton	-610	0.357	587	0.6691	1207	Robotics Engineering	1121	-10	-0.0988	953
+3	877 N	0.5092	Fabrice	soccer	826	1.43	1025	0.5149	228	Computer Game Design	182	819	0.8489	821
+3	1592 N	0.2112	Andrew	ice hockey, badminton, volleyball, running	370	0.4147	619	0.6843	270	Computer Game Design	492	553	0.6185	520
+1	411 N	0.3964	Tony	baseball	400	0.1388	64	0.0142	353	Applied Mathematics	111	859	0.8043	-69
+0	921 N	None	Inan	football	-318	0.7839	1095	1.0233	1246	Statistics	843	997	0.8572	737
+0	666 N	1.3662	Vani	tennis	302	0.0698	1165	1.1021	613	Electrical Engineering	1137	141	0.5119	781
+1	1317 N	0.8686	Tony	football, golf	810	0.0723	600	0.0565	638	Bioengineering	-212	629	0.8748	-453
+2	655 N	1.2488	Inan	boxing, golf	1359	0.4475	1285	1.4938	648	Technology and Information Management	668	396	0.4696	963
+2	218 N	1.5058	inan	football, boxing	606	0.7607	779	0.7669	1084	Computer Science	926	617	0.606	551
+2	12 N	0.4912	Inan	football, golf	1480	0.8271	351	0.1891	1025	Computer Science	554	158	1.0073	712
+2	667 N	1.0811	Michael	golf, football	1054	0.5495	None	0.8281	439	Games and Playable Media	-87	454	0.1598	263
+3	1559 N	0.9588	Fabrice	volleyball, track & field, badminton, ice hockey	815	0.3811	None	0.5632	307	NULL	1069	393	0.064	686
+2	616 N	1.8682	Inan	boxing, golf	1560	1.4902	921	NULL	1123	Computer Science	1	324	0.1437	1138
